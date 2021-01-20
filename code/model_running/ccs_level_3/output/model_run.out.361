@@ -1,0 +1,66 @@
+[1] "Cancer_of_testis"
+[1] 6
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 44.831  12.729  57.607 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-3.177e-01  -9.431e-06  -8.559e-06  -7.116e-06   2.896e+00  
+
+Coefficients of interest:
+                   Estimate Std. Error t value Pr(>|t|)    
+event              -8.04257    8.40026  -0.957    0.338    
+ns(tmean, df = 3)1 -1.73427    0.04922 -35.237  < 2e-16 ***
+ns(tmean, df = 3)2 -4.78939    0.16164 -29.630  < 2e-16 ***
+ns(tmean, df = 3)3 -2.19026    0.06306 -34.731  < 2e-16 ***
+ns(year, df = 3)1  -0.10803    0.01620  -6.671 2.55e-11 ***
+ns(year, df = 3)2  -0.38681    0.02906 -13.313  < 2e-16 ***
+ns(year, df = 3)3  -1.46025    0.01641 -88.977  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.002499249)
+
+Residual deviance: 1466.1 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 7
+
+                          2.5 %       97.5 %
+event              2.274285e-11 4544.2798938
+ns(tmean, df = 3)1 1.602964e-01    0.1944071
+ns(tmean, df = 3)2 6.059084e-03    0.0114178
+ns(tmean, df = 3)3 9.887814e-02    0.1266081
+ns(year, df = 3)1  8.695540e-01    0.9265462
+ns(year, df = 3)2  6.416226e-01    0.7190248
+ns(year, df = 3)3  2.248293e-01    0.2397683
+[1] FALSE

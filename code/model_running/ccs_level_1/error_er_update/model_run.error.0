@@ -1,0 +1,9 @@
+This is dlnm 2.4.2. For details: help(dlnm) and vignette('dlnmOverview').
+Error: cannot allocate vector of size 268.2 Mb
+In addition: Warning message:
+In (function (fun = NULL, df = NULL, knots = NULL, ...)  :
+  default knots placement along lags has changed since version 2.0.0.
+See 'file.show(system.file('Changesince200',package='dlnm'))'.
+See also help(logknots) for setting the knots
+consistently with the previous versions
+Execution halted

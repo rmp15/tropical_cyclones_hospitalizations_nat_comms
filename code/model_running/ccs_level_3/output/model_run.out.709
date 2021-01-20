@@ -1,0 +1,66 @@
+[1] "Coagulation_and_hemorrhagic_disorders"
+[1] 2
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 31.178   6.003  37.202 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.2826650  -0.1920911  -0.0003635  -0.0002967   4.3671812  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event               0.168812   0.086108    1.960   0.0499 *  
+ns(tmean, df = 3)1 -0.013828   0.030544   -0.453   0.6508    
+ns(tmean, df = 3)2 -0.101522   0.108805   -0.933   0.3508    
+ns(tmean, df = 3)3  0.048067   0.039420    1.219   0.2227    
+ns(year, df = 3)1  -0.660321   0.009676  -68.242   <2e-16 ***
+ns(year, df = 3)2  -0.777278   0.015464  -50.263   <2e-16 ***
+ns(year, df = 3)3  -1.173632   0.008588 -136.659   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.4410487)
+
+Residual deviance: 493267 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              1.0000441 1.4015522
+ns(tmean, df = 3)1 0.9289572 1.0471131
+ns(tmean, df = 3)2 0.7299527 1.1182132
+ns(tmean, df = 3)3 0.9712264 1.1335213
+ns(year, df = 3)1  0.5069788 0.5265776
+ns(year, df = 3)2  0.4459328 0.4738007
+ns(year, df = 3)3  0.3040800 0.3144909
+[1] FALSE

@@ -1,0 +1,66 @@
+[1] "Other_diseases_of_kidney_and_ureters"
+[1] -1
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 29.953   2.759  32.727 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.0636414  -0.1796465  -0.0003060  -0.0002775   4.8614006  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event               0.102695   0.094710   1.084  0.27823    
+ns(tmean, df = 3)1  0.151035   0.033141   4.557 5.18e-06 ***
+ns(tmean, df = 3)2  0.289317   0.117654   2.459  0.01393 *  
+ns(tmean, df = 3)3  0.123963   0.041561   2.983  0.00286 ** 
+ns(year, df = 3)1  -0.280803   0.009848 -28.512  < 2e-16 ***
+ns(year, df = 3)2  -0.054375   0.017548  -3.099  0.00194 ** 
+ns(year, df = 3)3  -0.607607   0.007946 -76.468  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.4214273)
+
+Residual deviance: 450283 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.9204125 1.3341887
+ns(tmean, df = 3)1 1.0898918 1.2410907
+ns(tmean, df = 3)2 1.0604770 1.6818834
+ns(tmean, df = 3)3 1.0434217 1.2280417
+ns(year, df = 3)1  0.7407404 0.7698959
+ns(year, df = 3)2  0.9150585 0.9802166
+ns(year, df = 3)3  0.5362363 0.5532014
+[1] FALSE

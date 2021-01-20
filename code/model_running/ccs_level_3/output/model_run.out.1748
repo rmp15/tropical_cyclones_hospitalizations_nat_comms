@@ -1,0 +1,66 @@
+[1] "Pancreatic_disorders_(not_diabetes)"
+[1] 7
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 28.631   2.738  31.386 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.8794378  -0.3321469  -0.1869176  -0.0006123   5.0747665  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event              -0.055609   0.066972   -0.830    0.406    
+ns(tmean, df = 3)1  0.159474   0.022072    7.225 5.01e-13 ***
+ns(tmean, df = 3)2  0.412196   0.078202    5.271 1.36e-07 ***
+ns(tmean, df = 3)3  0.034980   0.027522    1.271    0.204    
+ns(year, df = 3)1  -0.211891   0.006464  -32.778  < 2e-16 ***
+ns(year, df = 3)2  -0.090581   0.011584   -7.820  < 2e-16 ***
+ns(year, df = 3)3  -0.614351   0.005267 -116.636  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.7542094)
+
+Residual deviance: 1243929 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.8295491 1.0785895
+ns(tmean, df = 3)1 1.1232354 1.2247474
+ns(tmean, df = 3)2 1.2955348 1.7602729
+ns(tmean, df = 3)3 0.9812170 1.0929945
+ns(year, df = 3)1  0.7988664 0.8193684
+ns(year, df = 3)2  0.8928959 0.9343754
+ns(year, df = 3)3  0.5354357 0.5466059
+[1] FALSE

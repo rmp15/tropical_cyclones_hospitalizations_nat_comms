@@ -1,0 +1,66 @@
+[1] "Malaise_and_fatigue"
+[1] 3
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 39.916   3.666  43.613 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-0.9421903  -0.1779435  -0.0002923  -0.0002671   4.8073669  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event               0.009667   0.102314   0.094    0.925    
+ns(tmean, df = 3)1  0.252121   0.032812   7.684  < 2e-16 ***
+ns(tmean, df = 3)2  0.489352   0.115891   4.223 2.42e-05 ***
+ns(tmean, df = 3)3  0.367814   0.042197   8.717  < 2e-16 ***
+ns(year, df = 3)1   0.372291   0.009812  37.941  < 2e-16 ***
+ns(year, df = 3)2   0.231537   0.019377  11.949  < 2e-16 ***
+ns(year, df = 3)3  -0.202018   0.007807 -25.878  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.4107464)
+
+Residual deviance: 429241 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.8262440 1.2339243
+ns(tmean, df = 3)1 1.2066038 1.3722232
+ns(tmean, df = 3)2 1.2997984 2.0472437
+ns(tmean, df = 3)3 1.3299081 1.5691245
+ns(year, df = 3)1  1.4234150 1.4792316
+ns(year, df = 3)2  1.2135622 1.3093290
+ns(year, df = 3)3  0.8046736 0.8296785
+[1] FALSE

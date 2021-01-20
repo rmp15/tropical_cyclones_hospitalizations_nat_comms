@@ -1,0 +1,66 @@
+[1] "Intestinal_infection"
+[1] 5
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 40.443   3.673  44.147 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-2.2539216  -0.3385218  -0.1922211  -0.0007741   4.6931410  
+
+Coefficients of interest:
+                   Estimate Std. Error t value Pr(>|t|)    
+event              0.058033   0.058647   0.990 0.322406    
+ns(tmean, df = 3)1 0.065736   0.017239   3.813 0.000137 ***
+ns(tmean, df = 3)2 0.158223   0.061838   2.559 0.010508 *  
+ns(tmean, df = 3)3 0.073486   0.023980   3.065 0.002180 ** 
+ns(year, df = 3)1  0.991163   0.005545 178.760  < 2e-16 ***
+ns(year, df = 3)2  1.502617   0.012962 115.929  < 2e-16 ***
+ns(year, df = 3)3  0.214226   0.004236  50.574  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.7824781)
+
+Residual deviance: 1370328 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %   97.5 %
+event              0.9446755 1.188842
+ns(tmean, df = 3)1 1.0324631 1.104646
+ns(tmean, df = 3)2 1.0377152 1.322367
+ns(tmean, df = 3)3 1.0268407 1.128045
+ns(year, df = 3)1  2.6652450 2.723807
+ns(year, df = 3)2  4.3807170 4.609046
+ns(year, df = 3)3  1.2286590 1.249231
+[1] FALSE

@@ -1,0 +1,66 @@
+[1] "Prolapse_of_female_genital_organs"
+[1] 6
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 34.899   3.119  38.038 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-2.0424997  -0.2613812  -0.0003505  -0.0003069   4.9816022  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event               0.058560   0.070400    0.832 0.405517    
+ns(tmean, df = 3)1  0.146244   0.022226    6.580 4.71e-11 ***
+ns(tmean, df = 3)2  0.271434   0.078425    3.461 0.000538 ***
+ns(tmean, df = 3)3  0.029546   0.028146    1.050 0.293843    
+ns(year, df = 3)1  -0.189593   0.006820  -27.799  < 2e-16 ***
+ns(year, df = 3)2  -1.253017   0.011340 -110.492  < 2e-16 ***
+ns(year, df = 3)3  -1.563213   0.007033 -222.268  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.5288089)
+
+Residual deviance: 839279 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 7
+
+                       2.5 %    97.5 %
+event              0.9236497 1.2171860
+ns(tmean, df = 3)1 1.1081390 1.2090149
+ns(tmean, df = 3)2 1.1249325 1.5298122
+ns(tmean, df = 3)3 0.9747057 1.0884030
+ns(year, df = 3)1  0.8163104 0.8384283
+ns(year, df = 3)2  0.2793629 0.2920617
+ns(year, df = 3)3  0.2065945 0.2123693
+[1] FALSE

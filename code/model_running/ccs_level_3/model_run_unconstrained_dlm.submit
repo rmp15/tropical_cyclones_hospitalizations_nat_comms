@@ -1,0 +1,44 @@
+# Documentation
+# https://rce-docs.hmdc.harvard.edu/book/batch-processing-basics
+
+Universe= vanilla
+# Executable = /bin/bash
+getenv= True
+
+# Uncomment to receive notifications about your jobs
+notification = complete
+notify_user = robbie.parks@columbia.edu
+
+# Optional
+request_cpus = 1
+request_disk = 20GB
+request_memory = 20GB
+
+# Enter the path to the R program.
+executable = /usr/local/bin/R
+
+# Specify any arguments you want to pass to the executable
+# to make R not save or restore workspaces, and to
+# run as quietly as possible
+arguments = --no-save --no-restore --slave --args $(Process)
+
+# Specify the relative path to the input file
+input = model_run_unconstrained_dlm.R
+
+# Specify where to output any results printed by your program
+# The folder (output in this example) must already exist
+output = output/model_run.out.$(Process)
+
+# Specify where to save any errors returned by your program.
+error = error/model_run.error.$(Process)
+
+log = model_run_unconstrained_dlm.log
+
+# Number of processes to request
+# Use 'Queue 1' if you want to run a single R file
+# It starts at zero, so here: 0, 1, 2, 3, 4
+Queue 287
+# 287 when full model run for each wind event
+
+# to run in RCE
+#condor_submit model_run_unconstrained_dlm.submit

@@ -1,0 +1,66 @@
+[1] "Acute_and_unspecified_renal_failure"
+[1] 7
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 30.545   2.838  33.401 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-3.7731  -0.4750  -0.2837  -0.1452   5.3002  
+
+Coefficients of interest:
+                   Estimate Std. Error t value Pr(>|t|)    
+event              0.127740   0.038751   3.296 0.000979 ***
+ns(tmean, df = 3)1 0.142260   0.012669  11.229  < 2e-16 ***
+ns(tmean, df = 3)2 0.341646   0.045035   7.586 3.29e-14 ***
+ns(tmean, df = 3)3 0.403338   0.016240  24.836  < 2e-16 ***
+ns(year, df = 3)1  0.993500   0.003975 249.934  < 2e-16 ***
+ns(year, df = 3)2  2.188369   0.009793 223.463  < 2e-16 ***
+ns(year, df = 3)3  0.518112   0.002851 181.758  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.9542618)
+
+Residual deviance: 2238330 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 5
+
+                      2.5 %   97.5 %
+event              1.053153 1.225920
+ns(tmean, df = 3)1 1.124603 1.181861
+ns(tmean, df = 3)2 1.288373 1.537122
+ns(tmean, df = 3)3 1.449919 1.545222
+ns(year, df = 3)1  2.679710 2.721792
+ns(year, df = 3)2  8.751064 9.093529
+ns(year, df = 3)3  1.669502 1.688262
+[1] FALSE

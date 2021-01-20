@@ -1,0 +1,66 @@
+[1] "Intestinal_obstruction_without_hernia"
+[1] 7
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population        rates     tmean
+1      10001   1     1 1999     0      13014 0.000000e+00 -6.110097
+2      10001   1     1 2000     1      13331 7.501313e-05  3.688167
+3      10001   1     1 2001     0      13744 0.000000e+00 -1.962286
+4      10001   1     1 2002     0      14134 0.000000e+00 -3.996383
+5      10001   1     1 2003     0      14820 0.000000e+00  8.674599
+6      10001   1     1 2004     0      15495 0.000000e+00  3.797066
+   user  system elapsed 
+ 36.022   3.080  39.131 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.8636  -0.4609  -0.2967  -0.1663   5.0730  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event               0.091030   0.043309    2.102   0.0356 *  
+ns(tmean, df = 3)1  0.062377   0.014543    4.289 1.79e-05 ***
+ns(tmean, df = 3)2  0.218142   0.051692    4.220 2.44e-05 ***
+ns(tmean, df = 3)3  0.014617   0.018677    0.783   0.4339    
+ns(year, df = 3)1  -0.116230   0.004338  -26.794  < 2e-16 ***
+ns(year, df = 3)2  -0.257060   0.007756  -33.143  < 2e-16 ***
+ns(year, df = 3)3  -0.382953   0.003413 -112.212  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.9075616)
+
+Residual deviance: 2090626 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 5
+
+                       2.5 %    97.5 %
+event              1.0061646 1.1923349
+ns(tmean, df = 3)1 1.0344535 1.0951387
+ns(tmean, df = 3)2 1.1239254 1.3763809
+ns(tmean, df = 3)3 0.9782510 1.0525569
+ns(year, df = 3)1  0.8827333 0.8978717
+ns(year, df = 3)2  0.7616553 0.7851677
+ns(year, df = 3)3  0.6772991 0.6864207
+[1] FALSE

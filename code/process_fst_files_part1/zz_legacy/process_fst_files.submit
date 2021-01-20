@@ -1,0 +1,11 @@
+Universe= vanilla
+Executable = /bin/bash
+Arguments = process_fst_files.sh
+getenv= True
+output  = process_fst_files.out
+error   = process_fst_files.error
+Log     = process_fst_files.log
+Queue 1
+
+# to run in RCE
+#condor_submit process_fst_files.submit

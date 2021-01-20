@@ -1,0 +1,66 @@
+[1] "Inflammatory_diseases_of_female_pelvic_organs"
+[1] 7
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 45.456   3.951  49.444 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-0.6513495  -0.0001228  -0.0001177  -0.0001090   3.7948423  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event              -0.006825   0.138714  -0.049   0.9608    
+ns(tmean, df = 3)1  0.103414   0.047755   2.165   0.0303 *  
+ns(tmean, df = 3)2 -0.039148   0.167854  -0.233   0.8156    
+ns(tmean, df = 3)3  0.009130   0.057367   0.159   0.8736    
+ns(year, df = 3)1  -0.274424   0.013689 -20.048   <2e-16 ***
+ns(year, df = 3)2  -0.436350   0.023630 -18.466   <2e-16 ***
+ns(year, df = 3)3  -0.653407   0.011207 -58.305   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.1324126)
+
+Residual deviance: 95830 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.7567665 1.3034965
+ns(tmean, df = 3)1 1.0098637 1.2177596
+ns(tmean, df = 3)2 0.6920233 1.3362135
+ns(tmean, df = 3)3 0.9018496 1.1292653
+ns(year, df = 3)1  0.7398906 0.7806762
+ns(year, df = 3)2  0.6171370 0.6770331
+ns(year, df = 3)3  0.5089669 0.5318241
+[1] FALSE

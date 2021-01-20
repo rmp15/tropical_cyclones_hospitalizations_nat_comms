@@ -1,0 +1,66 @@
+[1] "Appendicitis_and_other_appendiceal_conditions"
+[1] 1
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 32.342   2.879  35.241 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.0860776  -0.1811320  -0.0003326  -0.0003095   5.0239820  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event               0.147813   0.086588   1.707 0.087805 .  
+ns(tmean, df = 3)1  0.113938   0.032004   3.560 0.000371 ***
+ns(tmean, df = 3)2 -0.023218   0.112806  -0.206 0.836929    
+ns(tmean, df = 3)3  0.177968   0.038998   4.564 5.03e-06 ***
+ns(year, df = 3)1   0.234449   0.009038  25.940  < 2e-16 ***
+ns(year, df = 3)2   0.468045   0.017992  26.014  < 2e-16 ***
+ns(year, df = 3)3  -0.284861   0.007154 -39.819  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.4473861)
+
+Residual deviance: 513795 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.9783425 1.3737185
+ns(tmean, df = 3)1 1.0525446 1.1932311
+ns(tmean, df = 3)2 0.7832417 1.2188133
+ns(tmean, df = 3)3 1.1068665 1.2896902
+ns(year, df = 3)1  1.2420148 1.2868060
+ns(year, df = 3)2  1.5415384 1.6541865
+ns(year, df = 3)3  0.7416465 0.7627388
+[1] FALSE

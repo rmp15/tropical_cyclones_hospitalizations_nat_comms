@@ -1,0 +1,66 @@
+[1] "Phlebitis;_thrombophlebitis_and_thromboembolism"
+[1] 2
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population        rates     tmean
+1      10001   1     1 1999     0      13014 0.000000e+00 -6.110097
+2      10001   1     1 2000     0      13331 0.000000e+00  3.688167
+3      10001   1     1 2001     0      13744 0.000000e+00 -1.962286
+4      10001   1     1 2002     0      14134 0.000000e+00 -3.996383
+5      10001   1     1 2003     1      14820 6.747638e-05  8.674599
+6      10001   1     1 2004     0      15495 0.000000e+00  3.797066
+   user  system elapsed 
+ 40.084   3.388  43.506 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-2.6420921  -0.3507067  -0.2021463  -0.0007161   4.9672173  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event              -0.026081   0.055615   -0.469    0.639    
+ns(tmean, df = 3)1  0.179484   0.018349    9.782  < 2e-16 ***
+ns(tmean, df = 3)2  0.389727   0.065370    5.962 2.49e-09 ***
+ns(tmean, df = 3)3  0.183872   0.023151    7.942  < 2e-16 ***
+ns(year, df = 3)1  -0.060125   0.005389  -11.158  < 2e-16 ***
+ns(year, df = 3)2  -0.495339   0.009488  -52.206  < 2e-16 ***
+ns(year, df = 3)3  -0.563893   0.004452 -126.648  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.7679201)
+
+Residual deviance: 1414101 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.8736418 1.0864575
+ns(tmean, df = 3)1 1.1543312 1.2404170
+ns(tmean, df = 3)2 1.2990121 1.6784139
+ns(tmean, df = 3)3 1.1485465 1.2576523
+ns(year, df = 3)1  0.9317541 0.9516451
+ns(year, df = 3)2  0.5981367 0.6208022
+ns(year, df = 3)3  0.5640458 0.5739767
+[1] FALSE

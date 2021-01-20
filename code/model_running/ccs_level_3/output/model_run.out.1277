@@ -1,0 +1,66 @@
+[1] "Occlusion_or_stenosis_of_precerebral_arteries"
+[1] -2
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 39.858   3.463  43.351 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-2.8793721  -0.3819339  -0.2065365  -0.0008061   5.3024680  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event              -0.073265   0.050459   -1.452  0.14651    
+ns(tmean, df = 3)1  0.110210   0.017328    6.360 2.01e-10 ***
+ns(tmean, df = 3)2  0.271121   0.061064    4.440 9.00e-06 ***
+ns(tmean, df = 3)3  0.061267   0.021670    2.827  0.00469 ** 
+ns(year, df = 3)1  -0.419339   0.005168  -81.135  < 2e-16 ***
+ns(year, df = 3)2  -0.705818   0.008593  -82.143  < 2e-16 ***
+ns(year, df = 3)3  -0.941804   0.004456 -211.357  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.7664464)
+
+Residual deviance: 1544710 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.8418417 1.0259639
+ns(tmean, df = 3)1 1.0792309 1.1550831
+ns(tmean, df = 3)2 1.1635073 1.4781681
+ns(tmean, df = 3)3 1.0189734 1.1093106
+ns(year, df = 3)1  0.6508550 0.6641756
+ns(year, df = 3)2  0.4854595 0.5020894
+ns(year, df = 3)3  0.3865330 0.3933440
+[1] FALSE

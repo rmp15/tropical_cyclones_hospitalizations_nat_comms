@@ -1,0 +1,66 @@
+[1] "Calculus_of_urinary_tract"
+[1] 4
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 37.202   3.349  40.577 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.4773539  -0.2465944  -0.1660345  -0.0004424   5.1609931  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event              -0.104489   0.076703  -1.362  0.17311    
+ns(tmean, df = 3)1  0.095069   0.025283   3.760  0.00017 ***
+ns(tmean, df = 3)2  0.183734   0.089547   2.052  0.04019 *  
+ns(tmean, df = 3)3  0.128383   0.031852   4.031 5.56e-05 ***
+ns(year, df = 3)1  -0.168752   0.007484 -22.548  < 2e-16 ***
+ns(year, df = 3)2  -0.137694   0.013433 -10.251  < 2e-16 ***
+ns(year, df = 3)3  -0.333672   0.005787 -57.660  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.6016258)
+
+Residual deviance: 837941 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.7750534 1.0469123
+ns(tmean, df = 3)1 1.0465670 1.1556031
+ns(tmean, df = 3)2 1.0082589 1.4322436
+ns(tmean, df = 3)3 1.0681787 1.2102307
+ns(year, df = 3)1  0.8324175 0.8572002
+ns(year, df = 3)2  0.8487240 0.8946107
+ns(year, df = 3)3  0.7082107 0.7244595
+[1] FALSE

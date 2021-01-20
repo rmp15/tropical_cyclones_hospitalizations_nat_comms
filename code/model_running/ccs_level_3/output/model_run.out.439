@@ -1,0 +1,66 @@
+[1] "Hodgkin`s_disease"
+[1] 7
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 43.756   3.556  47.348 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-4.234e-01  -4.415e-05  -4.160e-05  -3.651e-05   3.704e+00  
+
+Coefficients of interest:
+                   Estimate Std. Error t value Pr(>|t|)    
+event              -7.96420    7.77594  -1.024  0.30574    
+ns(tmean, df = 3)1  0.37069    0.04998   7.417 1.19e-13 ***
+ns(tmean, df = 3)2  0.47069    0.17740   2.653  0.00797 ** 
+ns(tmean, df = 3)3  0.14463    0.06319   2.289  0.02209 *  
+ns(year, df = 3)1  -0.38190    0.01504 -25.398  < 2e-16 ***
+ns(year, df = 3)2  -0.64229    0.02517 -25.522  < 2e-16 ***
+ns(year, df = 3)3  -0.92400    0.01297 -71.251  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.05165311)
+
+Residual deviance: 33717 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 7
+
+                          2.5 %       97.5 %
+event              8.361859e-11 1445.7044403
+ns(tmean, df = 3)1 1.313558e+00    1.5978163
+ns(tmean, df = 3)2 1.130880e+00    2.2668521
+ns(tmean, df = 3)3 1.021003e+00    1.3079796
+ns(year, df = 3)1  6.627426e-01    0.7029809
+ns(year, df = 3)2  5.007649e-01    0.5526840
+ns(year, df = 3)3  3.869650e-01    0.4071448
+[1] FALSE

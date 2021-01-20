@@ -1,0 +1,3 @@
+Error in fix.by(by.x, x) : 'by' must specify uniquely valid columns
+Calls: merge -> merge.data.frame -> fix.by
+Execution halted

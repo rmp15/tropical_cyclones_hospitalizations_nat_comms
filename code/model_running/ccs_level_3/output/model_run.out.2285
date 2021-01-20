@@ -1,0 +1,66 @@
+[1] "Infective_arthritis_and_osteomyelitis_(except_that_caused_by_tuberculosis_or_sexually_transmitted_disease)"
+[1] 5
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 40.797   8.936  49.774 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.5143097  -0.2246684  -0.0004173  -0.0003812   4.5292066  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event               0.024639   0.078955   0.312  0.75499    
+ns(tmean, df = 3)1  0.085128   0.026948   3.159  0.00158 ** 
+ns(tmean, df = 3)2  0.027135   0.095647   0.284  0.77664    
+ns(tmean, df = 3)3  0.026960   0.033981   0.793  0.42755    
+ns(year, df = 3)1  -0.263521   0.008056 -32.712  < 2e-16 ***
+ns(year, df = 3)2  -0.219859   0.014152 -15.535  < 2e-16 ***
+ns(year, df = 3)3  -0.558657   0.006464 -86.430  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.5139199)
+
+Residual deviance: 660341 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.8779987 1.1964852
+ns(tmean, df = 3)1 1.0328378 1.1479138
+ns(tmean, df = 3)2 0.8518621 1.2393660
+ns(tmean, df = 3)3 0.9611340 1.0980784
+ns(year, df = 3)1  0.7563051 0.7805691
+ns(year, df = 3)2  0.7806742 0.8252071
+ns(year, df = 3)3  0.5647763 0.5792690
+[1] FALSE

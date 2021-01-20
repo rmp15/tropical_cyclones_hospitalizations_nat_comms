@@ -1,0 +1,2622 @@
+[1] 2013
+[1] "Processing batch 1 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8906 29012           39         620 2013 14MAR2013     1          653
+8907 29020           45         670 2013 24MAY2013     1          653
+8908 29020           44         520 2013 01FEB2013     1          653
+8909 29021           23         810 2013 18FEB2013     1          653
+8910 29040           45         940 2013 22APR2013     1          653
+8911 29040           10         450 2013 30SEP2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8906 Delirium/dementia/amnestic/other cognitiv      PRESENILE DELUSION        
+8907 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8908 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8909 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+8910 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8911 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 168"
+[1] "Number of total rows = 168"
+[1] "Processing batch 2 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8944  2900            5         370 2013 08FEB2013     1          653
+8945 29010            5         200 2013 12SEP2013     1          653
+8946 29020           10         450 2013 16APR2013     1          653
+8947 29020           10         280 2013 03AUG2013     1          653
+8948  2903           45         390 2013 21MAY2013     1          653
+8949 29040           45         190 2013 02MAR2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8944 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8945 Delirium/dementia/amnestic/other cognitiv      PRESENILE DEMENTIA        
+8946 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8947 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8948 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8949 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 136"
+[1] "Number of total rows = 136"
+[1] "Processing batch 3 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9042  2900            5           0 2013 23NOV2013     1          653
+9043  2900           16          60 2013 19JAN2013     1          653
+9044 29020           11         220 2013 29MAY2013     1          653
+9045 29020           11         960 2013 01JUL2013     1          653
+9046  2903           16          60 2013 19AUG2013     1          653
+9047 29040           37         540 2013 18JUN2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9042 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+9043 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+9044 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+9045 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+9046 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+9047 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 146"
+[1] "Number of total rows = 146"
+[1] "Processing batch 4 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9105  2900           11         680 2013 29MAR2013     1          653
+9106 29021           33         590 2013 12AUG2013     1          653
+9107  2903           23         240 2013 13OCT2013     1          653
+9108  2903           10         510 2013 12JUL2013     1          653
+9109 29040           21         150 2013 30JUL2013     1          653
+9110 29040           49         980 2013 25JUN2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9105 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+9106 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+9107 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+9108 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+9109 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9110 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 174"
+[1] "Number of total rows = 174"
+[1] "Processing batch 5 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8822  2900           16         330 2013 11MAR2013     1          653
+8823 29011           45         610 2013 25NOV2013     1          653
+8824 29012           44         720 2013 07JAN2013     1          653
+8825 29020           10         570 2013 28AUG2013     1          653
+8826 29021           10         470 2013 04JUN2013     1          653
+8827  2903           11         801 2013 23AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8822 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8823 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8824 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+8825 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8826 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8827 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 142"
+[1] "Number of total rows = 142"
+[1] "Processing batch 6 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9139 29010           39         590 2013 06MAY2013     1          653
+9140 29011            4         240 2013 24JAN2013     1          653
+9141 29020           11         100 2013 08APR2013     1          653
+9142  2903           14         141 2013 16JUL2013     1          653
+9143 29040           44         940 2013 09JUL2013     1          653
+9144 29040           51         540 2013 22AUG2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9139 Delirium/dementia/amnestic/other cognitiv      PRESENILE DEMENTIA        
+9140 Delirium/dementia/amnestic/other cognitiv      PRESENILE DELIRIUM        
+9141 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+9142 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+9143 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9144 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 139"
+[1] "Number of total rows = 139"
+[1] "Processing batch 7 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9067 29013            4         310 2013 26AUG2013     1          653
+9068 29021           45         180 2013 06SEP2013     1          653
+9069 29021           25          10 2013 13JUN2013     1          653
+9070  2903           39          10 2013 31MAY2013     1          653
+9071 29040            1         270 2013 28FEB2013     1          653
+9072 29040           14         141 2013 15FEB2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9067 Delirium/dementia/amnestic/other cognitiv    PRESENILE DEPRESSION        
+9068 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+9069 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+9070 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+9071 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9072 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 121"
+[1] "Number of total rows = 121"
+[1] "Processing batch 8 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9115  2900           16          60 2013 17JUL2013     1          653
+9116 29020           14         141 2013 17JUN2013     1          653
+9117 29020           10         570 2013 18MAR2013     1          653
+9118 29021           39         210 2013 20APR2013     1          653
+9119 29040            7          20 2013 11NOV2013     1          653
+9120 29040           34         830 2013 12JUL2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9115 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+9116 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+9117 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+9118 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+9119 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9120 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 112"
+[1] "Number of total rows = 112"
+[1] "Processing batch 9 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9144  2900           23         810 2013 05AUG2013     1          653
+9145 29021            5         200 2013 19JAN2013     1          653
+9146  2903           24         540 2013 06JUN2013     1          653
+9147 29040           52         520 2013 09SEP2013     1          653
+9148 29040           14         141 2013 22APR2013     1          653
+9149 29040           33         800 2013 09AUG2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9144 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+9145 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+9146 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+9147 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9148 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9149 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 155"
+[1] "Number of total rows = 155"
+[1] "Processing batch 10 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8872  2900           11         360 2013 25NOV2013     1          653
+8873 29020           16          60 2013 19FEB2013     1          653
+8874 29021           23         810 2013 30SEP2013     1          653
+8875 29040            1         510 2013 11AUG2013     1          653
+8876 29040           37         580 2013 11JUL2013     1          653
+8877 29040           45         610 2013 29DEC2012     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8872 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8873 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8874 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+8875 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8876 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8877 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 167"
+[1] "Number of total rows = 167"
+[1] "Processing batch 11 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9309 29020           44         460 2013 17OCT2013     1          653
+9310 29021           33         590 2013 10FEB2013     1          653
+9311 29040           26         940 2013 04NOV2013     1          653
+9312 29040           18         460 2013 05APR2013     1          653
+9313 29040           14         530 2013 30AUG2013     1          653
+9314 29040           22         150 2013 02APR2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9309 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+9310 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+9311 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9312 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9313 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9314 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 135"
+[1] "Number of total rows = 135"
+[1] "Processing batch 12 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8585 29011           10         510 2013 30NOV2012     1          653
+8586 29020           24          60 2013 09DEC2013     1          653
+8587 29020           14         989 2013 09AUG2013     1          653
+8588 29040           49         200 2013 29APR2013     1          653
+8589 29040           36         790 2013 06FEB2013     1          653
+8590 29040           21          10 2013 04DEC2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8585 Delirium/dementia/amnestic/other cognitiv      PRESENILE DELIRIUM        
+8586 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8587 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8588 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8589 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8590 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 127"
+[1] "Number of total rows = 127"
+[1] "Processing batch 13 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8102 29020           33         720 2013 02APR2013     1          653
+8103 29020           26         150 2013 21JUL2013     1          653
+8104 29040           22          90 2013 10OCT2013     1          653
+8105 29040           39         620 2013 24OCT2013     1          653
+8106 29040           25         540 2013 23APR2013     1          653
+8107 29040           37         600 2013 25JAN2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8102 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8103 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8104 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8105 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8106 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8107 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 133"
+[1] "Number of total rows = 133"
+[1] "Processing batch 14 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7997  2900           39         620 2013 30MAR2013     1          653
+7998  2900           36         780 2013 06JAN2013     1          653
+7999  2900           39         160 2013 13JUN2013     1          653
+8000  2900           39         740 2013 07SEP2013     1          653
+8001 29010           39         770 2013 04FEB2013     1          653
+8002 29020           39         290 2013 26NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7997 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7998 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7999 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8000 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8001 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8002 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 467"
+[1] "Number of total rows = 467"
+[1] "Processing batch 15 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7686  2900           39         650 2013 24AUG2013     1          653
+7687  2900           39         230 2013 21JAN2013     1          653
+7688  2900           39         210 2013 03OCT2013     1          653
+7689  2900           39         290 2013 07MAY2013     1          653
+7690  2900           39          10 2013 22AUG2013     1          653
+7691 29020            5         200 2013 03JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7686 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7687 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7688 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7689 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7690 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7691 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 428"
+[1] "Number of total rows = 428"
+[1] "Processing batch 16 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7824  2900            1         270 2013 13AUG2013     1          653
+7825 29020           28         340 2013 10JUN2013     1          653
+7826  2903           21         180 2013 05APR2013     1          653
+7827  2903           21         130 2013 01MAR2013     1          653
+7828  2903           34         910 2013 21MAY2013     1          653
+7829  2903           33         420 2013 03OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7824 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7825 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7826 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7827 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7828 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7829 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 475"
+[1] "Number of total rows = 475"
+[1] "Processing batch 17 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8043  2900           21          30 2013 11FEB2013     1          653
+8044  2903           21         220 2013 06FEB2013     1          653
+8045  2903           36         770 2013 08DEC2013     1          653
+8046  2903           21          20 2013 07MAY2013     1          653
+8047  2903           39         480 2013 11NOV2013     1          653
+8048 29040           22          90 2013 23AUG2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8043 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8044 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8045 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8046 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8047 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8048 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 479"
+[1] "Number of total rows = 479"
+[1] "Processing batch 18 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8286  2900           49         701 2013 25JUL2013     1          653
+8287  2900           10         120 2013 26DEC2012     1          653
+8288  2900           42         200 2013 12AUG2013     1          653
+8289  2900            1         440 2013 22MAR2013     1          653
+8290  2900           34         410 2013 05FEB2013     1          653
+8291  2900           21         200 2013 14MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8286 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8287 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8288 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8289 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8290 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8291 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 445"
+[1] "Number of total rows = 445"
+[1] "Processing batch 19 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8303  2900           34         510 2013 08FEB2013     1          653
+8304  2900           34         310 2013 26JUL2013     1          653
+8305  2900           33         590 2013 02JAN2013     1          653
+8306  2900           34         550 2013 25JAN2013     1          653
+8307  2900           31         150 2013 16JUL2013     1          653
+8308 29010           39         620 2013 17MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8303 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8304 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8305 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8306 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8307 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8308 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+[1] "Number of complete rows = 474"
+[1] "Number of total rows = 474"
+[1] "Processing batch 20 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8417  2900           33         370 2013 24JAN2013     1          653
+8418  2900           11         240 2013 02MAY2013     1          653
+8419 29010           34         790 2013 08MAR2013     1          653
+8420 29020           11         882 2013 07AUG2013     1          653
+8421 29020           11         170 2013 01MAY2013     1          653
+8422 29020           42         410 2013 25OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8417 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8418 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8419 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8420 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8421 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8422 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 478"
+[1] "Number of total rows = 478"
+[1] "Processing batch 21 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7916  2900           11         460 2013 03JAN2013     1          653
+7917  2900           42         250 2013 07MAY2013     1          653
+7918  2900           11         500 2013 13AUG2013     1          653
+7919  2900           11         830 2013 09SEP2013     1          653
+7920  2900           11          80 2013 10JAN2013     1          653
+7921  2900           10         580 2013 20FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7916 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7917 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7918 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7919 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7920 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7921 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 664"
+[1] "Number of total rows = 664"
+[1] "Processing batch 22 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8289  2900           11         861 2013 10JUL2013     1          653
+8290  2900           11         460 2013 17JAN2013     1          653
+8291  2900           49           0 2013 30MAR2013     1          653
+8292  2900           42         410 2013 09MAY2013     1          653
+8293  2900           11         500 2013 25JUL2013     1          653
+8294  2900           10         470 2013 03JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8289 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8290 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8291 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8292 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8293 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8294 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 591"
+[1] "Number of total rows = 591"
+[1] "Processing batch 23 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7791  2900           51         190 2013 13JAN2013     1          653
+7792  2900           21         150 2013 12OCT2013     1          653
+7793  2900           49         490 2013 18DEC2013     1          653
+7794  2900           51         140 2013 28JAN2013     1          653
+7795  2900           44         780 2013 07JAN2013     1          653
+7796  2900           36         480 2013 18MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7791 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7792 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7793 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7794 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7795 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7796 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 553"
+[1] "Number of total rows = 553"
+[1] "Processing batch 24 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7975  2900           51         210 2013 04MAR2013     1          653
+7976  2900            9           0 2013 12DEC2012     1          653
+7977  2900           51         250 2013 02JAN2013     1          653
+7978  2900           23         810 2013 15JUL2013     1          653
+7979 29020           23         810 2013 13AUG2013     1          653
+7980 29020           51         190 2013 06JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7975 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7976 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7977 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7978 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7979 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7980 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 527"
+[1] "Number of total rows = 527"
+[1] "Processing batch 25 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8375  2900           34         330 2013 28MAY2013     1          653
+8376  2900           33         420 2013 25JUN2013     1          653
+8377 29010           42         440 2013 23MAR2013     1          653
+8378 29020           11         490 2013 15OCT2013     1          653
+8379  2903           44         520 2013 06AUG2013     1          653
+8380  2903           21         160 2013 17FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8375 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8376 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8377 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8378 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8379 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8380 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 486"
+[1] "Number of total rows = 486"
+[1] "Processing batch 26 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8533  2900           42          30 2013 15MAY2013     1          653
+8534 29020            1         360 2013 02APR2013     1          653
+8535 29021           42         410 2013 25JAN2013     1          653
+8536 29021           42          30 2013 25JUL2013     1          653
+8537 29021           42         390 2013 01JAN2013     1          653
+8538  2903           42         110 2013 01NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8533 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8534 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8535 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8536 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8537 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8538 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 459"
+[1] "Number of total rows = 459"
+[1] "Processing batch 27 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8303  2900           34         230 2013 02FEB2013     1          653
+8304  2900            7           0 2013 19JUL2013     1          653
+8305  2900           34         760 2013 15JUL2013     1          653
+8306  2900           39         440 2013 19DEC2013     1          653
+8307 29012           42         220 2013 19AUG2013     1          653
+8308 29020            1         360 2013 28OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8303 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8304 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8305 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8306 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8307 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+8308 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 430"
+[1] "Number of total rows = 430"
+[1] "Processing batch 28 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7848  2900           39         670 2013 28FEB2013     1          653
+7849  2900           14         600 2013 03AUG2013     1          653
+7850  2900           39         560 2013 25FEB2013     1          653
+7851  2900           33         800 2013 18DEC2013     1          653
+7852 29020           39         620 2013 10JAN2013     1          653
+7853 29020           36         170 2013 08OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7848 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7849 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7850 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7851 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7852 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7853 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 460"
+[1] "Number of total rows = 460"
+[1] "Processing batch 29 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7786  2900           21         130 2013 07DEC2013     1          653
+7787  2900           36         170 2013 22OCT2013     1          653
+7788  2900           39          10 2013 09APR2013     1          653
+7789 29010           36         310 2013 12JAN2013     1          653
+7790 29011           39         480 2013 13SEP2013     1          653
+7791 29020           39         140 2013 28JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7786 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7787 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7788 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7789 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7790 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7791 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 431"
+[1] "Number of total rows = 431"
+[1] "Processing batch 30 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7848  2900           33          60 2013 26MAR2013     1          653
+7849  2900           39         420 2013 13MAR2013     1          653
+7850  2900           10         520 2013 01NOV2013     1          653
+7851  2900           39         750 2013 11MAR2013     1          653
+7852 29010           39         290 2013 17APR2013     1          653
+7853 29020           39         290 2013 23AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7848 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7849 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7850 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7851 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7852 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7853 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 453"
+[1] "Number of total rows = 453"
+[1] "Processing batch 31 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7740  2900            5         430 2013 05JUN2013     1          653
+7741  2900           42          10 2013 04SEP2013     1          653
+7742  2900           39          10 2013 29JAN2013     1          653
+7743  2900           11         290 2013 28DEC2012     1          653
+7744  2900           39         420 2013 20FEB2013     1          653
+7745  2900           21         150 2013 26JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7740 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7741 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7742 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7743 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7744 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7745 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 488"
+[1] "Number of total rows = 488"
+[1] "Processing batch 32 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8098  2900           39         320 2013 26DEC2013     1          653
+8099  2900           10         510 2013 17NOV2013     1          653
+8100  2900           31         320 2013 05JUN2013     1          653
+8101  2900           10         630 2013 03JUL2013     1          653
+8102  2900           31         290 2013 07JUL2013     1          653
+8103  2900           10          40 2013 26DEC2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8098 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8099 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8100 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8101 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8102 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8103 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 412"
+[1] "Number of total rows = 412"
+[1] "Processing batch 33 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8078  2900           10         450 2013 26JAN2013     1          653
+8079 29011           23         220 2013 11MAR2013     1          653
+8080 29020           39         140 2013 24JAN2013     1          653
+8081 29021           31         100 2013 14MAR2013     1          653
+8082  2903           39         590 2013 27DEC2013     1          653
+8083  2903           31         260 2013 31OCT2012     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8078 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8079 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8080 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8081 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8082 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8083 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 471"
+[1] "Number of total rows = 471"
+[1] "Processing batch 34 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8211  2900            3          70 2013 25OCT2013     1          653
+8212 29020           10         510 2013 04DEC2013     1          653
+8213 29020           31         290 2013 07JAN2013     1          653
+8214 29020           21          30 2013 29OCT2013     1          653
+8215 29020           36         250 2013 03DEC2013     1          653
+8216 29021           31         100 2013 02FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8211 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8212 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8213 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8214 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8215 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8216 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+[1] "Number of complete rows = 395"
+[1] "Number of total rows = 395"
+[1] "Processing batch 35 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8511  2900           29          10 2013 12SEP2013     1          653
+8512  2900           49         771 2013 08JAN2013     1          653
+8513  2900           42         150 2013 13JUL2013     1          653
+8514  2900           33         400 2013 16NOV2013     1          653
+8515  2900           49         921 2013 27AUG2013     1          653
+8516 29012           49           0 2013 29JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8511 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8512 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8513 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8514 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8515 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8516 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+[1] "Number of complete rows = 405"
+[1] "Number of total rows = 405"
+[1] "Processing batch 36 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8431  2900           49         791 2013 28DEC2012     1          653
+8432  2900           16          70 2013 24AUG2013     1          653
+8433  2900           49         970 2013 09JAN2013     1          653
+8434  2900           49         771 2013 19FEB2013     1          653
+8435  2900           34          90 2013 08JUN2013     1          653
+8436 29020           10         650 2013 28MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8431 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8432 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8433 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8434 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8435 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8436 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 461"
+[1] "Number of total rows = 461"
+[1] "Processing batch 37 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7862  2900           16         950 2013 11APR2013     1          653
+7863  2900            5          30 2013 08SEP2013     1          653
+7864  2900           24         260 2013 06JUN2013     1          653
+7865  2900           16         950 2013 02MAY2013     1          653
+7866 29010           24         260 2013 08JUL2013     1          653
+7867 29013           10         350 2013 04NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7862 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7863 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7864 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7865 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7866 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7867 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+[1] "Number of complete rows = 448"
+[1] "Number of total rows = 448"
+[1] "Processing batch 38 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7768  2900           26         340 2013 13AUG2013     1          653
+7769  2900           45         650 2013 05DEC2013     1          653
+7770 29011           26          30 2013 22JAN2013     1          653
+7771 29020           43         510 2013 13MAY2013     1          653
+7772 29020           24         260 2013 26NOV2013     1          653
+7773 29020           24         840 2013 15NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7768 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7769 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7770 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7771 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7772 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7773 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 575"
+[1] "Number of total rows = 575"
+[1] "Processing batch 39 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7740  2900           14         530 2013 31JAN2013     1          653
+7741 29020           43          60 2013 17JUN2013     1          653
+7742 29020           16          60 2013 17DEC2013     1          653
+7743  2903           26         630 2013 14JAN2013     1          653
+7744  2903           44         780 2013 26JUN2013     1          653
+7745  2903           26         470 2013 30JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7740 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7741 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7742 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7743 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7744 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7745 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 566"
+[1] "Number of total rows = 566"
+[1] "Processing batch 40 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8157  2900           26         940 2013 05AUG2013     1          653
+8158  2900           33         420 2013 03AUG2013     1          653
+8159  2900           32         150 2013 13DEC2013     1          653
+8160  2900           32          70 2013 19NOV2013     1          653
+8161  2900           26         940 2013 03APR2013     1          653
+8162  2900           45         390 2013 30JUN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8157 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8158 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8159 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8160 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8161 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8162 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 516"
+[1] "Number of total rows = 516"
+[1] "Processing batch 41 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8110  2900           46          50 2013 29APR2013     1          653
+8111  2900           32         150 2013 25MAY2013     1          653
+8112  2900           46         240 2013 30AUG2013     1          653
+8113  2900           46         280 2013 09DEC2013     1          653
+8114  2900           32         220 2013 18AUG2013     1          653
+8115  2900           32         210 2013 17SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8110 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8111 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8112 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8113 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8114 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8115 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 398"
+[1] "Number of total rows = 398"
+[1] "Processing batch 42 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8564  2900            5         430 2013 12SEP2013     1          653
+8565  2900           14         530 2013 13JUN2013     1          653
+8566  2900           15         480 2013 17FEB2013     1          653
+8567  2900           37         710 2013 28JUN2013     1          653
+8568 29020            5         470 2013 03JUN2013     1          653
+8569  2903            5          30 2013 02JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8564 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8565 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8566 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8567 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8568 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8569 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 305"
+[1] "Number of total rows = 305"
+[1] "Processing batch 43 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8601  2900            5          60 2013 13FEB2013     1          653
+8602  2900            5         200 2013 22MAY2013     1          653
+8603  2900            3          80 2013 10APR2013     1          653
+8604 29010           11          60 2013 21MAR2013     1          653
+8605 29010           29          30 2013 06DEC2013     1          653
+8606 29010           38         190 2013 25JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8601 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8602 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8603 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8604 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8605 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8606 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+[1] "Number of complete rows = 371"
+[1] "Number of total rows = 371"
+[1] "Processing batch 44 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7970  2900           37         100 2013 10OCT2013     1          653
+7971  2900            6         150 2013 05AUG2013     1          653
+7972  2900           30          50 2013 16AUG2013     1          653
+7973  2900            5         430 2013 20AUG2013     1          653
+7974  2900           53         100 2013 19JUL2013     1          653
+7975 29020           11         170 2013 18APR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7970 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7971 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7972 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7973 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7974 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7975 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 420"
+[1] "Number of total rows = 420"
+[1] "Processing batch 45 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8102  2900           17          70 2013 30JUL2013     1          653
+8103  2900            5         440 2013 12APR2013     1          653
+8104  2900           17          70 2013 04FEB2013     1          653
+8105  2900           17         550 2013 06JUN2013     1          653
+8106  2900           50          20 2013 20OCT2013     1          653
+8107  2900           29          10 2013 10MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8102 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8103 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8104 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8105 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8106 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8107 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 451"
+[1] "Number of total rows = 451"
+[1] "Processing batch 46 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8114  2900           50         160 2013 31JAN2013     1          653
+8115  2900           16         740 2013 14FEB2013     1          653
+8116 29021           50         160 2013 21JAN2013     1          653
+8117  2903           26         410 2013 28MAY2013     1          653
+8118  2903           38          20 2013 13JUN2013     1          653
+8119  2903           50         310 2013 03SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8114 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8115 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8116 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8117 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8118 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8119 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 375"
+[1] "Number of total rows = 375"
+[1] "Processing batch 47 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7626  2900           16         580 2013 27AUG2013     1          653
+7627  2900           16          60 2013 11MAR2013     1          653
+7628  2900           16          60 2013 08JAN2013     1          653
+7629  2900           16          60 2013 22APR2013     1          653
+7630  2900           16          60 2013 28FEB2013     1          653
+7631  2900           16          60 2013 27JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7626 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7627 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7628 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7629 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7630 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7631 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 412"
+[1] "Number of total rows = 412"
+[1] "Processing batch 48 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7588  2900           16          60 2013 03APR2013     1          653
+7589  2900           16          80 2013 09JAN2013     1          653
+7590  2900           16          60 2013 05DEC2013     1          653
+7591  2900           16          60 2013 29SEP2013     1          653
+7592  2900           14         680 2013 03JUN2013     1          653
+7593  2900           16          60 2013 17MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7588 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7589 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7590 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7591 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7592 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7593 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 440"
+[1] "Number of total rows = 440"
+[1] "Processing batch 49 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7473  2900           26         470 2013 18MAR2013     1          653
+7474  2900           26         810 2013 24SEP2013     1          653
+7475 29011           26         985 2013 06JUN2013     1          653
+7476 29020           25         400 2013 22MAY2013     1          653
+7477 29020           26         950 2013 03APR2013     1          653
+7478 29020           26         650 2013 11JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7473 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7474 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7475 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7476 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7477 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7478 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 729"
+[1] "Number of total rows = 729"
+[1] "Processing batch 50 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7860  2900            5         660 2013 28AUG2013     1          653
+7861  2900           16          60 2013 16AUG2013     1          653
+7862  2900           16         180 2013 11MAR2013     1          653
+7863  2900           16          60 2013 13MAY2013     1          653
+7864  2900           16         180 2013 04MAR2013     1          653
+7865  2900           26         110 2013 20JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7860 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7861 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7862 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7863 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7864 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7865 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 633"
+[1] "Number of total rows = 633"
+[1] "Processing batch 51 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8154  2900           45         240 2013 17APR2013     1          653
+8155  2900           45         810 2013 21MAR2013     1          653
+8156 29013           45         650 2013 06AUG2013     1          653
+8157 29020           34         910 2013 06NOV2013     1          653
+8158 29020           45         120 2013 04APR2013     1          653
+8159 29020            5         200 2013 08JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8154 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8155 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8156 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+8157 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8158 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8159 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 498"
+[1] "Number of total rows = 498"
+[1] "Processing batch 52 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8215  2900           45         130 2013 08OCT2013     1          653
+8216  2900           45         800 2013 13SEP2013     1          653
+8217  2900           45         130 2013 26DEC2013     1          653
+8218  2900           45         743 2013 25SEP2013     1          653
+8219 29010           45         743 2013 06MAY2013     1          653
+8220 29010           37         110 2013 03OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8215 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8216 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8217 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8218 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8219 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8220 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+[1] "Number of complete rows = 432"
+[1] "Number of total rows = 432"
+[1] "Processing batch 53 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7741  2900           17         720 2013 06JUL2013     1          653
+7742  2900           28         760 2013 20AUG2013     1          653
+7743  2900           45         743 2013 19NOV2013     1          653
+7744  2900           17         860 2013 03NOV2013     1          653
+7745  2900           17         170 2013 07MAR2013     1          653
+7746  2900           17          70 2013 25APR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7741 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7742 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7743 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7744 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7745 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7746 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 609"
+[1] "Number of total rows = 609"
+[1] "Processing batch 54 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7478  2900           15         480 2013 08MAR2013     1          653
+7479  2900           17          70 2013 08JAN2013     1          653
+7480  2900           17          70 2013 06MAR2013     1          653
+7481  2900           17         860 2013 22OCT2013     1          653
+7482  2900            5         460 2013 24DEC2012     1          653
+7483  2900           16         630 2013 03JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7478 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7479 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7480 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7481 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7482 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7483 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 494"
+[1] "Number of total rows = 494"
+[1] "Processing batch 55 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8502  2900           17          70 2013 23MAR2013     1          653
+8503  2900           17         550 2013 28JAN2013     1          653
+8504  2900           25         190 2013 24JUN2013     1          653
+8505  2900           17         550 2013 09JAN2013     1          653
+8506  2900           50         260 2013 20JAN2013     1          653
+8507  2900           17         985 2013 11FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8502 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8503 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8504 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8505 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8506 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8507 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 325"
+[1] "Number of total rows = 325"
+[1] "Processing batch 56 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8398  2900           52         130 2013 22MAY2013     1          653
+8399 29011           36         610 2013 18JAN2013     1          653
+8400 29011           23         570 2013 11MAR2013     1          653
+8401 29013           10         520 2013 11SEP2013     1          653
+8402  2903           15         170 2013 16OCT2013     1          653
+8403  2903            1         610 2013 04OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8398 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8399 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8400 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8401 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+8402 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8403 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 256"
+[1] "Number of total rows = 256"
+[1] "Processing batch 57 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8693  2900           16          60 2013 28APR2013     1          653
+8694 29020           23         810 2013 26JAN2013     1          653
+8695 29020           15         440 2013 06FEB2013     1          653
+8696  2903            1         360 2013 31OCT2013     1          653
+8697  2903            1         630 2013 13MAR2013     1          653
+8698 29040           25         610 2013 17JUL2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8693 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8694 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8695 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8696 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8697 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8698 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 204"
+[1] "Number of total rows = 204"
+[1] "Processing batch 58 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8679  2900           10         580 2013 17JAN2013     1          653
+8680 29020           22         130 2013 16OCT2013     1          653
+8681 29020           16         160 2013 09NOV2013     1          653
+8682 29020           11         440 2013 08APR2013     1          653
+8683 29021           10         470 2013 29OCT2013     1          653
+8684 29021           33         590 2013 23MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8679 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8680 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8681 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8682 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8683 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8684 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+[1] "Number of complete rows = 227"
+[1] "Number of total rows = 227"
+[1] "Processing batch 59 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8777  2900           11         250 2013 03OCT2013     1          653
+8778  2900           31         350 2013 15NOV2013     1          653
+8779 29013           33          20 2013 03OCT2013     1          653
+8780 29020            5         200 2013 27AUG2013     1          653
+8781 29020           11         180 2013 17DEC2012     1          653
+8782 29020           33         590 2013 15OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8777 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8778 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8779 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+8780 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8781 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8782 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 187"
+[1] "Number of total rows = 187"
+[1] "Processing batch 60 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8750  2900           33         610 2013 03FEB2013     1          653
+8751 29020           11         140 2013 19FEB2013     1          653
+8752  2903           36         490 2013 13JUL2013     1          653
+8753  2903            9           0 2013 28FEB2013     1          653
+8754 29040            5         310 2013 21JAN2013     1          653
+8755 29040           11         830 2013 14APR2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8750 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8751 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8752 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8753 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8754 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8755 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 210"
+[1] "Number of total rows = 210"
+[1] "Processing batch 61 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8690  2900           11         970 2013 17APR2013     1          653
+8691  2900           10         570 2013 14NOV2013     1          653
+8692 29013           27         460 2013 26JUN2013     1          653
+8693 29020           42         220 2013 25APR2013     1          653
+8694 29021           33         420 2013 04DEC2013     1          653
+8695  2903           44         720 2013 13MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8690 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8691 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8692 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+8693 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8694 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8695 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 233"
+[1] "Number of total rows = 233"
+[1] "Processing batch 62 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8894 29020           44         460 2013 21NOV2013     1          653
+8895  2903            3         100 2013 25SEP2013     1          653
+8896 29040           33         590 2013 04JAN2013     1          653
+8897 29040           45         610 2013 24JAN2013     1          653
+8898 29040           31         270 2013 16SEP2013     1          653
+8899 29040            1         270 2013 10AUG2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8894 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8895 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8896 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8897 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8898 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8899 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 220"
+[1] "Number of total rows = 220"
+[1] "Processing batch 63 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8877  2900           33         800 2013 24SEP2013     1          653
+8878 29020           11         300 2013 18APR2013     1          653
+8879 29020            5         200 2013 24JAN2013     1          653
+8880  2903           22          20 2013 02JUL2013     1          653
+8881 29040           34         170 2013 05JUL2013     1          653
+8882 29040           33         500 2013 28OCT2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8877 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8878 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8879 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8880 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8881 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8882 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 205"
+[1] "Number of total rows = 205"
+[1] "Processing batch 64 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8542  2900           15         290 2013 20DEC2013     1          653
+8543 29010           52         390 2013 18JUL2013     1          653
+8544 29020           50         130 2013 26JUL2013     1          653
+8545 29021           10         470 2013 24JUL2013     1          653
+8546  2903           10         150 2013 23AUG2013     1          653
+8547  2903           33         331 2013 07FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8542 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8543 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8544 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8545 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8546 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8547 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 177"
+[1] "Number of total rows = 177"
+[1] "Processing batch 65 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8945 29021           14         141 2013 17SEP2013     1          653
+8946 29040           31         260 2013 02NOV2013     1          653
+8947 29040           50         160 2013 17JUN2013     1          653
+8948 29040           11         790 2013 12JUL2013     1          653
+8949 29040           21          30 2013 16JAN2013     1          653
+8950 29040           36         730 2013 17OCT2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8945 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+8946 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8947 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8948 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8949 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8950 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 172"
+[1] "Number of total rows = 172"
+[1] "Processing batch 66 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8932  2900           15         440 2013 19JUN2013     1          653
+8933 29020           11         490 2013 13AUG2013     1          653
+8934 29020           11         901 2013 06MAY2013     1          653
+8935  2903            1         360 2013 10OCT2013     1          653
+8936  2903           37         130 2013 12MAR2013     1          653
+8937 29040           26         470 2013 23APR2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8932 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8933 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8934 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8935 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8936 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8937 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 186"
+[1] "Number of total rows = 186"
+[1] "Processing batch 67 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9026  2900           16          60 2013 28FEB2013     1          653
+9027 29020           11         490 2013 27MAR2013     1          653
+9028  2903            5           0 2013 19APR2013     1          653
+9029 29040           45         530 2013 04DEC2012     1          653
+9030 29040           22           0 2013 14JAN2013     1          653
+9031 29040           44         620 2013 01MAY2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+9026 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+9027 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+9028 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+9029 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9030 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+9031 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 167"
+[1] "Number of total rows = 167"
+[1] "Processing batch 68 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8793 29020           50         160 2013 05DEC2013     1          653
+8794  2903           33         331 2013 01APR2013     1          653
+8795 29040           44         740 2013 18OCT2013     1          653
+8796 29040           39         230 2013 02FEB2013     1          653
+8797 29040           33         590 2013 04APR2013     1          653
+8798 29040           33         420 2013 22FEB2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8793 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8794 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8795 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8796 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8797 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8798 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 192"
+[1] "Number of total rows = 192"
+[1] "Processing batch 69 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8764  2900            5         200 2013 07JUN2013     1          653
+8765  2900           52         390 2013 11OCT2013     1          653
+8766  2900           16         850 2013 22APR2013     1          653
+8767 29011           45         794 2013 11JUL2013     1          653
+8768 29012            1         190 2013 11FEB2013     1          653
+8769 29020           42         220 2013 15NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8764 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8765 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8766 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8767 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8768 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+8769 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 278"
+[1] "Number of total rows = 278"
+[1] "Processing batch 70 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8541 29013           45         410 2013 03MAY2013     1          653
+8542 29020           11         882 2013 06APR2013     1          653
+8543 29040           36         170 2013 02JAN2013     1          653
+8544 29040           37         570 2013 11MAR2013     1          653
+8545 29040           19         140 2013 02OCT2013     1          653
+8546 29040           45         240 2013 29SEP2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8541 Delirium/dementia/amnestic/other cognitiv    PRESENILE DEPRESSION        
+8542 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8543 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8544 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8545 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+8546 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 220"
+[1] "Number of total rows = 220"
+[1] "Processing batch 71 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8320  2900            6          60 2013 28NOV2013     1          653
+8321  2900           10         120 2013 07APR2013     1          653
+8322  2900           10         120 2013 14OCT2013     1          653
+8323  2900           10         360 2013 20MAR2013     1          653
+8324 29020           10         280 2013 06JUN2013     1          653
+8325 29020           11         490 2013 25NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8320 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8321 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8322 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8323 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8324 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8325 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 351"
+[1] "Number of total rows = 351"
+[1] "Processing batch 72 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7596  2900            5         400 2013 18APR2013     1          653
+7597 29010           36         490 2013 20OCT2013     1          653
+7598 29011           15         230 2013 22JUN2013     1          653
+7599 29012           36         340 2013 10AUG2013     1          653
+7600 29020           11         612 2013 08MAY2013     1          653
+7601 29020           10          60 2013 11JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7596 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7597 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7598 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7599 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+7600 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7601 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 471"
+[1] "Number of total rows = 471"
+[1] "Processing batch 73 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7675  2900           15         840 2013 27JUN2013     1          653
+7676  2900           16          60 2013 19JUL2013     1          653
+7677  2900           39         530 2013 28MAY2013     1          653
+7678 29012           11         280 2013 18MAY2013     1          653
+7679 29012            1         340 2013 20MAR2013     1          653
+7680 29020           11         612 2013 02JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7675 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7676 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7677 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7678 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+7679 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+7680 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 505"
+[1] "Number of total rows = 505"
+[1] "Processing batch 74 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7412  2900           10         510 2013 16OCT2013     1          653
+7413  2900           10         350 2013 09FEB2013     1          653
+7414  2900           15         720 2013 19JAN2013     1          653
+7415  2900           15         400 2013 24SEP2013     1          653
+7416 29011           14         250 2013 15FEB2013     1          653
+7417 29011           15         310 2013 17OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7412 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7413 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7414 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7415 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7416 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7417 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+[1] "Number of complete rows = 678"
+[1] "Number of total rows = 678"
+[1] "Processing batch 75 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7860  2900           36         250 2013 25FEB2013     1          653
+7861  2900           15         440 2013 07JUL2013     1          653
+7862  2900           14         991 2013 29DEC2012     1          653
+7863  2900           10         150 2013 12JAN2013     1          653
+7864  2900           36         250 2013 06JUL2013     1          653
+7865 29020           15          40 2013 21JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7860 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7861 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7862 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7863 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7864 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7865 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 583"
+[1] "Number of total rows = 583"
+[1] "Processing batch 76 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7842  2900           14         141 2013 06DEC2013     1          653
+7843  2900           14         570 2013 30NOV2013     1          653
+7844  2900           10         450 2013 10DEC2013     1          653
+7845  2900           10         120 2013 17MAY2013     1          653
+7846 29020           33         590 2013 17JUN2013     1          653
+7847 29020           19          90 2013 17JUN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7842 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7843 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7844 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7845 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7846 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7847 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 454"
+[1] "Number of total rows = 454"
+[1] "Processing batch 77 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7767  2900           14         570 2013 01FEB2013     1          653
+7768  2900           14         141 2013 23FEB2013     1          653
+7769 29020            5         460 2013 06DEC2013     1          653
+7770 29020           14         141 2013 05SEP2013     1          653
+7771 29021           14         250 2013 04OCT2013     1          653
+7772 29021            6         200 2013 25MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7767 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7768 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7769 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7770 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7771 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+7772 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+[1] "Number of complete rows = 465"
+[1] "Number of total rows = 465"
+[1] "Processing batch 78 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7800  2900           15         880 2013 18JAN2013     1          653
+7801 29020            5         200 2013 03SEP2013     1          653
+7802 29020           23         810 2013 16JUL2013     1          653
+7803 29020           14         141 2013 09DEC2013     1          653
+7804 29021           23         620 2013 17NOV2013     1          653
+7805  2903           23         620 2013 24SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7800 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7801 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7802 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7803 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7804 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+7805 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 440"
+[1] "Number of total rows = 440"
+[1] "Processing batch 79 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7835  2900           23         490 2013 11JAN2013     1          653
+7836  2900           23         620 2013 09JAN2013     1          653
+7837 29011           23         170 2013 14SEP2013     1          653
+7838 29020           44         500 2013 28DEC2012     1          653
+7839 29020           23         490 2013 12JUL2013     1          653
+7840 29020           10          70 2013 14MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7835 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7836 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7837 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7838 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7839 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7840 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 419"
+[1] "Number of total rows = 419"
+[1] "Processing batch 80 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8064  2900           10         350 2013 23JUL2013     1          653
+8065  2900           14         141 2013 12SEP2013     1          653
+8066  2900           23         490 2013 17MAR2013     1          653
+8067  2900           23         810 2013 17JUN2013     1          653
+8068  2900           23         810 2013 21MAR2013     1          653
+8069 29010           11         320 2013 22SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8064 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8065 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8066 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8067 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8068 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8069 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+[1] "Number of complete rows = 446"
+[1] "Number of total rows = 446"
+[1] "Processing batch 81 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7701  2900            5         200 2013 16DEC2013     1          653
+7702  2900           14         140 2013 09MAR2013     1          653
+7703  2900            7          10 2013 09SEP2013     1          653
+7704  2900            5         470 2013 12FEB2013     1          653
+7705  2900           14         141 2013 30JAN2013     1          653
+7706 29010           10         510 2013 04MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7701 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7702 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7703 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7704 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7705 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7706 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+[1] "Number of complete rows = 431"
+[1] "Number of total rows = 431"
+[1] "Processing batch 82 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8095  2900           16         630 2013 21JUN2013     1          653
+8096  2900           14         680 2013 17JUL2013     1          653
+8097  2900           14         989 2013 22APR2013     1          653
+8098  2900           16         630 2013 31MAY2013     1          653
+8099 29012           14         141 2013 31MAR2013     1          653
+8100 29020           14         141 2013 12JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8095 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8096 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8097 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8098 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8099 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+8100 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 430"
+[1] "Number of total rows = 430"
+[1] "Processing batch 83 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7973  2900           23         730 2013 21JUL2013     1          653
+7974  2900           15         440 2013 12AUG2013     1          653
+7975  2900           14         250 2013 20APR2013     1          653
+7976  2900            5         200 2013 11JUL2013     1          653
+7977 29020            1         440 2013 21MAR2013     1          653
+7978 29020           10         520 2013 10MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7973 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7974 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7975 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7976 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7977 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7978 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 422"
+[1] "Number of total rows = 422"
+[1] "Processing batch 84 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8014  2900           33         590 2013 05DEC2012     1          653
+8015  2900           16          60 2013 24DEC2013     1          653
+8016  2900           14         920 2013 06DEC2013     1          653
+8017 29020           14         141 2013 03OCT2013     1          653
+8018 29020           14         141 2013 18APR2013     1          653
+8019 29020           11         884 2013 17OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8014 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8015 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8016 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8017 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8018 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8019 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 440"
+[1] "Number of total rows = 440"
+[1] "Processing batch 85 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7667  2900           52           0 2013 25MAR2013     1          653
+7668  2900           14         141 2013 07MAY2013     1          653
+7669  2900           14         910 2013 07FEB2013     1          653
+7670 29011           36         310 2013 29AUG2013     1          653
+7671 29020            6         200 2013 21AUG2013     1          653
+7672 29020           36         510 2013 01AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7667 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7668 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7669 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7670 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7671 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7672 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 483"
+[1] "Number of total rows = 483"
+[1] "Processing batch 86 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7292  2900           22         170 2013 20AUG2013     1          653
+7293  2900           36         250 2013 10FEB2013     1          653
+7294  2900           36         250 2013 15AUG2013     1          653
+7295  2900           36         210 2013 17NOV2013     1          653
+7296  2900           36         270 2013 07MAR2013     1          653
+7297  2900           36         690 2013 30JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7292 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7293 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7294 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7295 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7296 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7297 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 519"
+[1] "Number of total rows = 519"
+[1] "Processing batch 87 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7352  2900           34         190 2013 29JAN2013     1          653
+7353  2900           10         450 2013 14MAY2013     1          653
+7354  2900           16          60 2013 15MAY2013     1          653
+7355 29011           36         230 2013 09MAR2013     1          653
+7356 29012           36         110 2013 04FEB2013     1          653
+7357 29020           10          50 2013 01OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7352 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7353 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7354 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7355 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7356 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+7357 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 518"
+[1] "Number of total rows = 518"
+[1] "Processing batch 88 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7328  2900           36         770 2013 20NOV2013     1          653
+7329  2900           36         210 2013 14MAR2013     1          653
+7330 29010           36         790 2013 05OCT2013     1          653
+7331 29010           21          30 2013 13JUN2013     1          653
+7332 29020           36         770 2013 19APR2013     1          653
+7333 29020           36         440 2013 26MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7328 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7329 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7330 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7331 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7332 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7333 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 560"
+[1] "Number of total rows = 560"
+[1] "Processing batch 89 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7735  2900            9           0 2013 06APR2013     1          653
+7736  2900           23         810 2013 14FEB2013     1          653
+7737  2900           11         460 2013 16JAN2013     1          653
+7738 29010            5         590 2013 01JUL2013     1          653
+7739 29010           11         830 2013 24MAR2013     1          653
+7740 29020           11         140 2013 29MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7735 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7736 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7737 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7738 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7739 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7740 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 630"
+[1] "Number of total rows = 630"
+[1] "Processing batch 90 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7774  2900           11         830 2013 27DEC2012     1          653
+7775  2900           10         150 2013 30NOV2013     1          653
+7776  2900           10         120 2013 17DEC2013     1          653
+7777  2900           11         280 2013 07MAR2013     1          653
+7778  2900           10         150 2013 08MAY2013     1          653
+7779  2900           36         660 2013 16MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7774 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7775 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7776 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7777 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7778 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7779 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 505"
+[1] "Number of total rows = 505"
+[1] "Processing batch 91 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7689  2900           11          50 2013 17MAY2013     1          653
+7690  2900           10         400 2013 16MAR2013     1          653
+7691  2900           11          50 2013 05OCT2013     1          653
+7692  2900           33         590 2013 06DEC2013     1          653
+7693  2900           15         440 2013 20DEC2013     1          653
+7694  2900           11         460 2013 28FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7689 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7690 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7691 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7692 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7693 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7694 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 638"
+[1] "Number of total rows = 638"
+[1] "Processing batch 92 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7962  2900           26         940 2013 26NOV2013     1          653
+7963  2900           10         420 2013 21AUG2013     1          653
+7964 29020           26         470 2013 22JUN2013     1          653
+7965 29020            5         540 2013 15MAR2013     1          653
+7966 29020           15         440 2013 07NOV2013     1          653
+7967 29020           10         150 2013 29JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7962 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7963 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7964 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7965 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7966 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7967 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 454"
+[1] "Number of total rows = 454"
+[1] "Processing batch 93 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7507  2900           15         440 2013 06DEC2013     1          653
+7508  2900           10         510 2013 30JUN2013     1          653
+7509  2900           36         580 2013 17OCT2013     1          653
+7510 29020           15         560 2013 01NOV2013     1          653
+7511 29020           15         430 2013 15MAR2013     1          653
+7512 29021           15         890 2013 15JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7507 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7508 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7509 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7510 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7511 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7512 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+[1] "Number of complete rows = 652"
+[1] "Number of total rows = 652"
+[1] "Processing batch 94 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7704  2900           52         390 2013 18APR2013     1          653
+7705 29020           52         460 2013 12DEC2013     1          653
+7706 29020           52         690 2013 12NOV2013     1          653
+7707 29021           52          50 2013 03DEC2013     1          653
+7708  2903           52         390 2013 28JAN2013     1          653
+7709  2903           52         390 2013 05APR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7704 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7705 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7706 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7707 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+7708 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7709 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 336"
+[1] "Number of total rows = 336"
+[1] "Processing batch 95 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7663  2900           52         580 2013 13APR2013     1          653
+7664  2900           52         350 2013 02MAR2013     1          653
+7665  2900           52         390 2013 08JUL2013     1          653
+7666  2900           52         290 2013 16JUL2013     1          653
+7667  2900           52         390 2013 27APR2013     1          653
+7668  2900           32           0 2013 10APR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7663 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7664 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7665 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7666 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7667 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7668 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 580"
+[1] "Number of total rows = 580"
+[1] "Processing batch 96 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7612  2900            1         550 2013 30NOV2013     1          653
+7613  2900            1         360 2013 02AUG2013     1          653
+7614  2900            1         360 2013 20JUL2013     1          653
+7615  2900            1         360 2013 06JUN2013     1          653
+7616  2900           22         160 2013 04MAR2013     1          653
+7617  2900            1         500 2013 27OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7612 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7613 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7614 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7615 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7616 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7617 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 1156"
+[1] "Number of total rows = 1156"
+[1] "Processing batch 97 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7639  2900           42          60 2013 12DEC2013     1          653
+7640  2900           44         220 2013 26DEC2013     1          653
+7641  2900            1         310 2013 08DEC2013     1          653
+7642  2900            1         360 2013 24MAR2013     1          653
+7643  2900           15         290 2013 30NOV2013     1          653
+7644  2900           44         560 2013 09APR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7639 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7640 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7641 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7642 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7643 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7644 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 1057"
+[1] "Number of total rows = 1057"
+[1] "Processing batch 98 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7696  2900           36         250 2013 16APR2013     1          653
+7697  2900           44         320 2013 01APR2013     1          653
+7698  2900           10         470 2013 06NOV2013     1          653
+7699 29020           17          70 2013 08APR2013     1          653
+7700 29020           19          90 2013 07OCT2013     1          653
+7701 29020            1         360 2013 23JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7696 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7697 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7698 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7699 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7700 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7701 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 798"
+[1] "Number of total rows = 798"
+[1] "Processing batch 99 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8000  2900            5         470 2013 20JAN2013     1          653
+8001  2900           10         540 2013 02FEB2013     1          653
+8002  2900            5         200 2013 08AUG2013     1          653
+8003  2900           19         360 2013 08OCT2013     1          653
+8004  2900           10         500 2013 27OCT2013     1          653
+8005  2900           45         879 2013 11SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8000 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8001 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8002 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8003 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8004 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8005 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 720"
+[1] "Number of total rows = 720"
+[1] "Processing batch 100 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8287  2900           45         450 2013 17JUN2013     1          653
+8288 29011           25         740 2013 18JUL2013     1          653
+8289 29011           45         610 2013 16AUG2013     1          653
+8290 29020           26         470 2013 20JUN2013     1          653
+8291 29020           19          90 2013 25FEB2013     1          653
+8292 29020           45         650 2013 04FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8287 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8288 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8289 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8290 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8291 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8292 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 478"
+[1] "Number of total rows = 478"
+[1] "Processing batch 101 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8088  2900           45         610 2013 15JAN2013     1          653
+8089  2900           45         650 2013 26OCT2013     1          653
+8090  2900           50         160 2013 16OCT2013     1          653
+8091 29020           45         390 2013 18JUN2013     1          653
+8092 29020           45         650 2013 09AUG2013     1          653
+8093  2903           45         843 2013 08MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8088 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8089 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8090 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8091 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8092 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8093 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 464"
+[1] "Number of total rows = 464"
+[1] "Processing batch 102 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7892  2900            4         270 2013 07JAN2013     1          653
+7893  2900            4         150 2013 10OCT2013     1          653
+7894  2900            4         680 2013 05MAR2013     1          653
+7895  2900           45         480 2013 04AUG2013     1          653
+7896 29012           45         878 2013 25OCT2013     1          653
+7897 29020           44         260 2013 14JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7892 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7893 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7894 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7895 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7896 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+7897 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 712"
+[1] "Number of total rows = 712"
+[1] "Processing batch 103 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7834  2900           29          10 2013 15JUL2013     1          653
+7835  2900           19         220 2013 29MAR2013     1          653
+7836  2900           25         750 2013 05JUL2013     1          653
+7837 29011            4         310 2013 26JAN2013     1          653
+7838 29012            4         400 2013 26JAN2013     1          653
+7839 29020           19          90 2013 10JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7834 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7835 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7836 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7837 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7838 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+7839 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 792"
+[1] "Number of total rows = 792"
+[1] "Processing batch 104 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7681  2900            4          10 2013 23MAY2013     1          653
+7682  2900           17          70 2013 21OCT2013     1          653
+7683  2900            4         270 2013 26SEP2013     1          653
+7684  2900            4         590 2013 27AUG2013     1          653
+7685  2900            4         290 2013 06JAN2013     1          653
+7686  2900            4         650 2013 19JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7681 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7682 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7683 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7684 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7685 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7686 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 1178"
+[1] "Number of total rows = 1178"
+[1] "Processing batch 105 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8176  2900            5         400 2013 23MAR2013     1          653
+8177  2900           45         757 2013 04NOV2013     1          653
+8178  2900           15         440 2013 18JUL2013     1          653
+8179 29011           45         130 2013 28NOV2013     1          653
+8180 29020           50         260 2013 28DEC2012     1          653
+8181 29020           45         562 2013 07JUN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8176 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8177 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8178 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8179 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8180 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8181 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 518"
+[1] "Number of total rows = 518"
+[1] "Processing batch 106 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7920  2900           49         921 2013 29JAN2013     1          653
+7921  2900           37         710 2013 28JUN2013     1          653
+7922  2900           45         910 2013 26JUN2013     1          653
+7923  2900           37         320 2013 02APR2013     1          653
+7924  2900            5         400 2013 03MAY2013     1          653
+7925  2900           16          80 2013 29DEC2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7920 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7921 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7922 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7923 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7924 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7925 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 778"
+[1] "Number of total rows = 778"
+[1] "Processing batch 107 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7488  2900           18         460 2013 09JUN2013     1          653
+7489  2900           11         460 2013 01NOV2013     1          653
+7490 29020           45         390 2013 15JUN2013     1          653
+7491 29020           11         901 2013 19APR2013     1          653
+7492  2903           36         410 2013 02MAY2013     1          653
+7493  2903           18         180 2013 18DEC2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7488 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7489 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7490 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7491 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7492 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7493 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 597"
+[1] "Number of total rows = 597"
+[1] "Processing batch 108 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7280  2900            5         200 2013 28APR2013     1          653
+7281  2900            5         200 2013 08JUL2013     1          653
+7282  2900           10          40 2013 08FEB2013     1          653
+7283  2900           18         580 2013 25MAY2013     1          653
+7284 29020           18         550 2013 15DEC2013     1          653
+7285 29020           15         510 2013 06FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7280 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7281 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7282 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7283 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7284 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7285 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 650"
+[1] "Number of total rows = 650"
+[1] "Processing batch 109 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7498  2900           44         460 2013 08DEC2013     1          653
+7499  2900           18         510 2013 22MAR2013     1          653
+7500  2900           18          60 2013 30OCT2013     1          653
+7501  2900           11         460 2013 30MAY2013     1          653
+7502  2900           26         910 2013 15NOV2013     1          653
+7503 29011           44         780 2013 11JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7498 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7499 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7500 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7501 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7502 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7503 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+[1] "Number of complete rows = 762"
+[1] "Number of total rows = 762"
+[1] "Processing batch 110 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7571  2900           23         810 2013 26MAY2013     1          653
+7572  2900           44         460 2013 21OCT2013     1          653
+7573  2900           10         550 2013 24MAY2013     1          653
+7574  2900           44         910 2013 23DEC2013     1          653
+7575  2900           11         790 2013 13NOV2013     1          653
+7576  2900           44         560 2013 20SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7571 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7572 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7573 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7574 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7575 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7576 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 968"
+[1] "Number of total rows = 968"
+[1] "Processing batch 111 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7707  2900           15         440 2013 11JAN2013     1          653
+7708  2900           44         660 2013 25NOV2013     1          653
+7709  2900           16          60 2013 23OCT2013     1          653
+7710  2900            3          60 2013 27APR2013     1          653
+7711 29010           44         500 2013 12NOV2013     1          653
+7712 29020           44         440 2013 22AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7707 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7708 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7709 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7710 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7711 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+7712 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 751"
+[1] "Number of total rows = 751"
+[1] "Processing batch 112 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7893  2900           23         810 2013 09APR2013     1          653
+7894  2900           10          90 2013 06SEP2013     1          653
+7895 29011           23         620 2013 03JUN2013     1          653
+7896 29020           14         141 2013 26APR2013     1          653
+7897  2903           23         250 2013 25NOV2013     1          653
+7898  2903           23         810 2013 12AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7893 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7894 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7895 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+7896 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7897 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+7898 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 446"
+[1] "Number of total rows = 446"
+[1] "Processing batch 113 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7599  2900           21         160 2013 20JAN2013     1          653
+7600  2900           33         800 2013 09SEP2013     1          653
+7601  2900           10         280 2013 28DEC2012     1          653
+7602  2900           23         730 2013 23JUN2013     1          653
+7603 29020           23         490 2013 05NOV2013     1          653
+7604 29020            1          70 2013 26FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7599 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7600 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7601 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7602 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7603 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7604 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 479"
+[1] "Number of total rows = 479"
+[1] "Processing batch 114 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8006  2900           25          10 2013 23DEC2013     1          653
+8007  2900           25         720 2013 18NOV2013     1          653
+8008  2900           23         810 2013 02OCT2013     1          653
+8009  2900           25         370 2013 27AUG2013     1          653
+8010  2900           25         750 2013 05AUG2013     1          653
+8011  2900           25          20 2013 24OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8006 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8007 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8008 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8009 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8010 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8011 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 1044"
+[1] "Number of total rows = 1044"
+[1] "Processing batch 115 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8158  2900           25         750 2013 22OCT2013     1          653
+8159  2900           25         750 2013 05AUG2013     1          653
+8160  2900           25         700 2013 30OCT2013     1          653
+8161  2900           25         670 2013 29SEP2013     1          653
+8162  2900           14         141 2013 01AUG2013     1          653
+8163  2900           25         750 2013 30SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8158 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8159 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8160 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8161 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8162 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8163 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 1058"
+[1] "Number of total rows = 1058"
+[1] "Processing batch 116 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8018  2900           14         141 2013 29DEC2012     1          653
+8019  2900            4          80 2013 02JUL2013     1          653
+8020  2900            1         360 2013 14MAR2013     1          653
+8021  2900            1         360 2013 31AUG2013     1          653
+8022  2900           25         750 2013 27NOV2013     1          653
+8023  2900           22         160 2013 21AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8018 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8019 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8020 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8021 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8022 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8023 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 1064"
+[1] "Number of total rows = 1064"
+[1] "Processing batch 117 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7943  2900           44         320 2013 16OCT2013     1          653
+7944  2900           22         160 2013 08AUG2013     1          653
+7945  2900           10         490 2013 26AUG2013     1          653
+7946  2900           22          90 2013 24FEB2013     1          653
+7947  2900           20         150 2013 30APR2013     1          653
+7948 29011           22          40 2013 17MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7943 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7944 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7945 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7946 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7947 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7948 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+[1] "Number of complete rows = 780"
+[1] "Number of total rows = 780"
+[1] "Processing batch 118 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7719  2900           37         600 2013 26AUG2013     1          653
+7720  2900           33         590 2013 23AUG2013     1          653
+7721 29020           22         150 2013 20MAR2013     1          653
+7722 29020           22          40 2013 07AUG2013     1          653
+7723 29020           10         510 2013 06JUL2013     1          653
+7724 29020           22         170 2013 03DEC2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7719 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7720 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7721 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7722 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7723 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7724 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 850"
+[1] "Number of total rows = 850"
+[1] "Processing batch 119 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8429  2900           33         800 2013 12APR2013     1          653
+8430  2900           10          70 2013 02AUG2013     1          653
+8431  2900           33         400 2013 07JAN2013     1          653
+8432  2900           33         800 2013 28FEB2013     1          653
+8433 29011           33         331 2013 26MAY2013     1          653
+8434 29011           29          10 2013 01FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8429 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8430 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8431 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8432 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8433 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8434 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+[1] "Number of complete rows = 476"
+[1] "Number of total rows = 476"
+[1] "Processing batch 120 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8488  2900           33         600 2013 11MAR2013     1          653
+8489  2900           33         331 2013 08JUL2013     1          653
+8490  2900           33         800 2013 21MAY2013     1          653
+8491  2900           33          90 2013 11JUL2013     1          653
+8492  2900           33         420 2013 05NOV2013     1          653
+8493 29011           33         320 2013 22NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8488 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8489 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8490 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8491 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8492 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8493 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+[1] "Number of complete rows = 427"
+[1] "Number of total rows = 427"
+[1] "Processing batch 121 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8568  2900           31         290 2013 11NOV2013     1          653
+8569  2900           33         360 2013 02NOV2013     1          653
+8570  2900           33         331 2013 28JUL2013     1          653
+8571  2900           33         650 2013 25JAN2013     1          653
+8572  2900           33         240 2013 05JUL2013     1          653
+8573  2900           10         500 2013 20NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8568 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8569 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8570 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8571 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8572 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8573 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 416"
+[1] "Number of total rows = 416"
+[1] "Processing batch 122 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8531  2900           33         600 2013 18FEB2013     1          653
+8532  2900           33         331 2013 10NOV2013     1          653
+8533  2900           33          20 2013 15APR2013     1          653
+8534  2900           33         520 2013 06JAN2013     1          653
+8535  2900           33          20 2013 01OCT2013     1          653
+8536  2900           33         420 2013 10OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8531 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8532 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8533 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8534 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8535 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8536 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 424"
+[1] "Number of total rows = 424"
+[1] "Processing batch 123 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8341  2900           10         510 2013 18JUN2013     1          653
+8342  2900           31         290 2013 11JAN2013     1          653
+8343 29013           33         420 2013 30OCT2013     1          653
+8344 29020           14         141 2013 07FEB2013     1          653
+8345 29020           33         331 2013 24APR2013     1          653
+8346 29020           33         331 2013 22AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8341 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8342 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8343 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+8344 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8345 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8346 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 434"
+[1] "Number of total rows = 434"
+[1] "Processing batch 124 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8173  2900           33          20 2013 12MAR2013     1          653
+8174  2900            8          20 2013 01JUL2013     1          653
+8175  2900           33         700 2013 04FEB2013     1          653
+8176 29020           31         160 2013 18APR2013     1          653
+8177 29020           11         884 2013 07OCT2013     1          653
+8178 29021           31         230 2013 18SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8173 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8174 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8175 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8176 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8177 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8178 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+[1] "Number of complete rows = 443"
+[1] "Number of total rows = 443"
+[1] "Processing batch 125 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8536  2900           33         420 2013 30DEC2012     1          653
+8537  2900           31         190 2013 08JAN2013     1          653
+8538  2900           31         370 2013 23JAN2013     1          653
+8539  2900            7          40 2013 20MAY2013     1          653
+8540  2900           10          50 2013 04MAR2013     1          653
+8541  2900           33         420 2013 29MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8536 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8537 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8538 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8539 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8540 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8541 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 436"
+[1] "Number of total rows = 436"
+[1] "Processing batch 126 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8658  2900            7          50 2013 04DEC2013     1          653
+8659  2900           31         370 2013 15NOV2013     1          653
+8660  2900           33         610 2013 30JAN2013     1          653
+8661  2900           14         920 2013 21OCT2013     1          653
+8662 29020           33         331 2013 21MAR2013     1          653
+8663 29020           10         570 2013 04MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8658 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8659 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8660 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8661 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8662 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8663 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 447"
+[1] "Number of total rows = 447"
+[1] "Processing batch 127 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8625  2900           33         800 2013 29JUL2013     1          653
+8626  2900           33         770 2013 27APR2013     1          653
+8627  2900           33         331 2013 09JAN2013     1          653
+8628  2900           15         630 2013 16DEC2013     1          653
+8629  2900           33         331 2013 09SEP2013     1          653
+8630  2900           33         331 2013 28JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8625 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8626 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8627 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8628 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8629 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8630 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 448"
+[1] "Number of total rows = 448"
+[1] "Processing batch 128 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8558  2900           33         420 2013 31DEC2012     1          653
+8559  2900           33         400 2013 27MAR2013     1          653
+8560  2900           39         510 2013 18OCT2013     1          653
+8561  2900           33         700 2013 24DEC2013     1          653
+8562  2900           33         610 2013 10JAN2013     1          653
+8563  2900           33         700 2013 02OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8558 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8559 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8560 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8561 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8562 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8563 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 479"
+[1] "Number of total rows = 479"
+[1] "Processing batch 129 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8481  2900           33         230 2013 20JUN2013     1          653
+8482  2900           31         270 2013 28MAR2013     1          653
+8483  2900           33         331 2013 15FEB2013     1          653
+8484  2900           10          50 2013 21AUG2013     1          653
+8485  2900           33         630 2013 11AUG2013     1          653
+8486  2900           31         200 2013 22DEC2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8481 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8482 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8483 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8484 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8485 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8486 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 458"
+[1] "Number of total rows = 458"
+[1] "Processing batch 130 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8220  2900           41          30 2013 06JAN2013     1          653
+8221  2900           41          30 2013 13JAN2013     1          653
+8222  2900           33         331 2013 04APR2013     1          653
+8223 29020           33         400 2013 11OCT2013     1          653
+8224 29021           22          40 2013 16JUL2013     1          653
+8225 29021           22          40 2013 15FEB2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8220 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8221 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8222 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8223 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8224 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+8225 Delirium/dementia/amnestic/other cognitiv      SENILE DEPRESSIVE        
+[1] "Number of complete rows = 635"
+[1] "Number of total rows = 635"
+[1] "Processing batch 131 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8129  2900           10         510 2013 05FEB2013     1          653
+8130  2900           20         150 2013 28JAN2013     1          653
+8131  2900           22         170 2013 30OCT2013     1          653
+8132 29020           10         470 2013 04JUN2013     1          653
+8133 29020           11         490 2013 25APR2013     1          653
+8134 29020           10         520 2013 16NOV2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8129 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8130 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8131 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8132 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8133 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8134 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 691"
+[1] "Number of total rows = 691"
+[1] "Processing batch 132 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8288  2900           33         400 2013 24FEB2013     1          653
+8289  2900           33         610 2013 31JAN2013     1          653
+8290  2900           33         420 2013 23JUL2013     1          653
+8291  2900            7          10 2013 12JAN2013     1          653
+8292  2900           33         760 2013 15AUG2013     1          653
+8293 29013           33         610 2013 11APR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8288 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8289 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8290 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8291 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8292 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8293 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+[1] "Number of complete rows = 603"
+[1] "Number of total rows = 603"
+[1] "Processing batch 133 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8524  2900           33         400 2013 02FEB2013     1          653
+8525  2900           33         370 2013 07JAN2013     1          653
+8526  2900           33         760 2013 01FEB2013     1          653
+8527  2900           10         480 2013 02JAN2013     1          653
+8528  2900            7           0 2013 16OCT2013     1          653
+8529 29012           45         801 2013 24DEC2012     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8524 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8525 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8526 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8527 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8528 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8529 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+[1] "Number of complete rows = 480"
+[1] "Number of total rows = 480"
+[1] "Processing batch 134 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8169  2900           33         331 2013 07NOV2013     1          653
+8170  2900           10         300 2013 13NOV2013     1          653
+8171  2900           33         590 2013 11MAR2013     1          653
+8172  2900           10          80 2013 15OCT2013     1          653
+8173  2900           33         331 2013 04OCT2013     1          653
+8174  2900           33         400 2013 20JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8169 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8170 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8171 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8172 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8173 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8174 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 486"
+[1] "Number of total rows = 486"
+[1] "Processing batch 135 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7809  2900           22         150 2013 12DEC2013     1          653
+7810  2900           22          90 2013 28JUL2013     1          653
+7811 29020           22         130 2013 18JUL2013     1          653
+7812 29020           22          40 2013 18FEB2013     1          653
+7813 29020           11         170 2013 10JUN2013     1          653
+7814 29020           22          40 2013 18JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7809 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7810 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7811 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7812 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7813 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7814 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 724"
+[1] "Number of total rows = 724"
+[1] "Processing batch 136 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7576  2900           33         400 2013 03APR2013     1          653
+7577  2900           33         600 2013 10JUN2013     1          653
+7578  2900           10         500 2013 08JUN2013     1          653
+7579  2900           33         560 2013 28JUL2013     1          653
+7580 29012            7          60 2013 30JUN2013     1          653
+7581 29012           31         100 2013 04JUL2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7576 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7577 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7578 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7579 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7580 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+7581 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+[1] "Number of complete rows = 527"
+[1] "Number of total rows = 527"
+[1] "Processing batch 137 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8730  2900           33         331 2013 10MAY2013     1          653
+8731  2900           33         400 2013 22APR2013     1          653
+8732  2900           33         420 2013 14DEC2013     1          653
+8733  2900           14          50 2013 06SEP2013     1          653
+8734  2900           33         320 2013 28NOV2013     1          653
+8735  2900           33         400 2013 15MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8730 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8731 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8732 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8733 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8734 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8735 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 447"
+[1] "Number of total rows = 447"
+[1] "Processing batch 138 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8762  2900           33         800 2013 17JUN2013     1          653
+8763  2900           26         940 2013 09NOV2013     1          653
+8764  2900           99         999 2013 13MAY2013     1          653
+8765 29012           33         420 2013 01AUG2013     1          653
+8766 29020           33         400 2013 19JUN2013     1          653
+8767 29020           33         610 2013 08APR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8762 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8763 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8764 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8765 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+8766 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8767 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 396"
+[1] "Number of total rows = 396"
+[1] "Processing batch 139 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8711  2900            5         200 2013 07AUG2013     1          653
+8712 29020           24         180 2013 23SEP2013     1          653
+8713 29020            3          60 2013 14FEB2013     1          653
+8714 29020           33         331 2013 05FEB2013     1          653
+8715  2903            5         200 2013 30JAN2013     1          653
+8716  2903            5         200 2013 11MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8711 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8712 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8713 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8714 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8715 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8716 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 333"
+[1] "Number of total rows = 333"
+[1] "Processing batch 140 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8895  2900           33          20 2013 06SEP2013     1          653
+8896  2900           10         120 2013 15OCT2013     1          653
+8897  2900           31         100 2013 28JUN2013     1          653
+8898  2900           33          20 2013 23FEB2013     1          653
+8899  2900           10         120 2013 07JUL2013     1          653
+8900 29020           11         170 2013 16AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8895 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8896 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8897 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8898 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8899 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8900 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 373"
+[1] "Number of total rows = 373"
+[1] "Processing batch 141 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+9439  2900           25         460 2013 09AUG2013     1          653
+9440  2900           10         120 2013 28DEC2012     1          653
+9441  2900           44          50 2013 24MAR2013     1          653
+9442  2900           16         410 2013 06OCT2013     1          653
+9443  2900           17         840 2013 26MAR2013     1          653
+9444  2900            5         460 2013 10OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+9439 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+9440 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+9441 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+9442 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+9443 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+9444 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+[1] "Number of complete rows = 417"
+[1] "Number of total rows = 417"
+[1] "Processing batch 142 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8735  2900           16          60 2013 04DEC2013     1          653
+8736  2900           33         400 2013 26APR2013     1          653
+8737  2900           33         650 2013 26JUN2013     1          653
+8738  2900           16          60 2013 18MAR2013     1          653
+8739  2900           16          60 2013 18NOV2013     1          653
+8740 29020           33         700 2013 10SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8735 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8736 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8737 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8738 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8739 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8740 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 291"
+[1] "Number of total rows = 291"
+[1] "Processing batch 143 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8537  2900           15         440 2013 17JAN2013     1          653
+8538  2900           45         180 2013 30AUG2013     1          653
+8539 29020           49         980 2013 08MAR2013     1          653
+8540 29020           33         331 2013 24JAN2013     1          653
+8541  2903           33         331 2013 20JAN2013     1          653
+8542 29040           33         590 2013 03SEP2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8537 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8538 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8539 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8540 Delirium/dementia/amnestic/other cognitiv         SENILE DELUSION        
+8541 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8542 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 284"
+[1] "Number of total rows = 284"
+[1] "Processing batch 144 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8625 29011           21         130 2013 06OCT2013     1          653
+8626 29020           15         690 2013 17JUL2013     1          653
+8627 29020           10         450 2013 29JAN2013     1          653
+8628 29020           33         590 2013 09MAY2013     1          653
+8629 29020           44         820 2013 24NOV2013     1          653
+8630 29020           11         220 2013 10JUL2013     1          653
+                      css_category_description icd9_code_description NA NA.1
+8625 Delirium/dementia/amnestic/other cognitiv    PRESENILE DELIRIUM        
+8626 Delirium/dementia/amnestic/other cognitiv       SENILE DELUSION        
+8627 Delirium/dementia/amnestic/other cognitiv       SENILE DELUSION        
+8628 Delirium/dementia/amnestic/other cognitiv       SENILE DELUSION        
+8629 Delirium/dementia/amnestic/other cognitiv       SENILE DELUSION        
+8630 Delirium/dementia/amnestic/other cognitiv       SENILE DELUSION        
+[1] "Number of complete rows = 278"
+[1] "Number of total rows = 278"
+[1] "Processing batch 145 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8689  2900            4         340 2013 28AUG2013     1          653
+8690  2900           33           0 2013 13MAR2013     1          653
+8691  2900           25         130 2013 28FEB2013     1          653
+8692 29020           52         170 2013 21JUL2013     1          653
+8693 29020           10         520 2013 09JUL2013     1          653
+8694 29020           52         170 2013 19SEP2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8689 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8690 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8691 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8692 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8693 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8694 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 297"
+[1] "Number of total rows = 297"
+[1] "Processing batch 146 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8857  2900           14         141 2013 08APR2013     1          653
+8858  2900           45         480 2013 13OCT2013     1          653
+8859 29010           33         540 2013 09MAY2013     1          653
+8860 29011           23         730 2013 18JUN2013     1          653
+8861 29012           33         540 2013 15JUN2013     1          653
+8862 29020           33         420 2013 18AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8857 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8858 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8859 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8860 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8861 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELUSION        
+8862 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 303"
+[1] "Number of total rows = 303"
+[1] "Processing batch 147 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8640  2900           17          80 2013 14AUG2013     1          653
+8641  2900           33         800 2013 03MAR2013     1          653
+8642 29021           26         940 2013 11FEB2013     1          653
+8643  2903           14         141 2013 07DEC2013     1          653
+8644  2903            3          60 2013 23OCT2013     1          653
+8645 29040           37         180 2013 01APR2013     1          653
+                      css_category_description   icd9_code_description NA NA.1
+8640 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8641 Delirium/dementia/amnestic/other cognitiv  SENILE DEMENTIA UNCOMP        
+8642 Delirium/dementia/amnestic/other cognitiv       SENILE DEPRESSIVE        
+8643 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8644 Delirium/dementia/amnestic/other cognitiv         SENILE DELIRIUM        
+8645 Delirium/dementia/amnestic/other cognitiv ARTERIOSCLER DEMENT NOS        
+[1] "Number of complete rows = 256"
+[1] "Number of total rows = 256"
+[1] "Processing batch 148 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8883  2900            5         430 2013 21DEC2013     1          653
+8884  2900            5         490 2013 24JUN2013     1          653
+8885  2900            5         200 2013 16FEB2013     1          653
+8886  2900            5         640 2013 22NOV2013     1          653
+8887  2900            5         400 2013 26SEP2013     1          653
+8888 29020            5         200 2013 17JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8883 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8884 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8885 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8886 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8887 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8888 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 320"
+[1] "Number of total rows = 320"
+[1] "Processing batch 149 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8863  2900            5         640 2013 02FEB2013     1          653
+8864  2900            5         430 2013 09SEP2013     1          653
+8865  2900           21         150 2013 09NOV2013     1          653
+8866 29010            5          90 2013 11JUN2013     1          653
+8867 29011            5         460 2013 25AUG2013     1          653
+8868 29020            5         470 2013 24MAY2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8863 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8864 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8865 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8866 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8867 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+8868 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 366"
+[1] "Number of total rows = 366"
+[1] "Processing batch 150 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8624  2900           33         420 2013 28DEC2012     1          653
+8625  2900           33         331 2013 18SEP2013     1          653
+8626 29010            9           0 2013 20APR2013     1          653
+8627 29013           33         590 2013 13JUL2013     1          653
+8628 29020           33          20 2013 14AUG2013     1          653
+8629 29020            5         400 2013 31JAN2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8624 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8625 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8626 Delirium/dementia/amnestic/other cognitiv     PRESENILE DEMENTIA        
+8627 Delirium/dementia/amnestic/other cognitiv   PRESENILE DEPRESSION        
+8628 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8629 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 470"
+[1] "Number of total rows = 470"
+[1] "Processing batch 151 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8902  2900            5         200 2013 05APR2013     1          653
+8903  2900           33         700 2013 16JUL2013     1          653
+8904 29020           19         270 2013 09JUN2013     1          653
+8905 29020            5         200 2013 26SEP2013     1          653
+8906  2903            5         470 2013 11JUN2013     1          653
+8907  2903           22          90 2013 19DEC2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8902 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8903 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8904 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8905 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8906 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+8907 Delirium/dementia/amnestic/other cognitiv        SENILE DELIRIUM        
+[1] "Number of complete rows = 354"
+[1] "Number of total rows = 354"
+[1] "Processing batch 152 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+8808  2900           45         910 2013 24AUG2013     1          653
+8809  2900            5         310 2013 07JUN2013     1          653
+8810 29020           33         331 2013 07SEP2013     1          653
+8811 29020            5         200 2013 01SEP2013     1          653
+8812 29020            5         460 2013 08FEB2013     1          653
+8813 29020           24         610 2013 17MAR2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+8808 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8809 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+8810 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8811 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8812 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+8813 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 389"
+[1] "Number of total rows = 389"
+[1] "Processing batch 153 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+7903  2900           17         690 2013 08OCT2013     1          653
+7904  2900           16          80 2013 17JAN2013     1          653
+7905  2900            5         440 2013 31OCT2013     1          653
+7906  2900            3           0 2013 29AUG2013     1          653
+7907 29020           26         470 2013 08MAR2013     1          653
+7908 29020           45         610 2013 20AUG2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+7903 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7904 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7905 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7906 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+7907 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+7908 Delirium/dementia/amnestic/other cognitiv        SENILE DELUSION        
+[1] "Number of complete rows = 520"
+[1] "Number of total rows = 520"
+[1] "Processing batch 154 of 154"
+     DIAG1 SSA_STATE_CD SSA_CNTY_CD YEAR     ADATE cases css_category
+5347  2900           45         240 2013 12JAN2013     1          653
+5348  2900           17          70 2013 24JUN2013     1          653
+5349  2900           52         390 2013 06MAY2013     1          653
+5350  2900            4         590 2013 28AUG2013     1          653
+5351  2900           45         780 2013 10JAN2013     1          653
+5352 29011           14         987 2013 25OCT2013     1          653
+                      css_category_description  icd9_code_description NA NA.1
+5347 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+5348 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+5349 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+5350 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+5351 Delirium/dementia/amnestic/other cognitiv SENILE DEMENTIA UNCOMP        
+5352 Delirium/dementia/amnestic/other cognitiv     PRESENILE DELIRIUM        
+[1] "Number of complete rows = 430"
+[1] "Number of total rows = 430"
+[1] 2013
+[1] "Original number of total rows: 7683439. Number of total rows in final file: 72003"
+[1] FALSE

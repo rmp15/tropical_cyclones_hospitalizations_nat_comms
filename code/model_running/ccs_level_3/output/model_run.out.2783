@@ -1,0 +1,66 @@
+[1] "Lymphadenitis"
+[1] -3
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 45.900   3.854  49.788 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-4.981e-01  -5.871e-05  -5.533e-05  -5.054e-05   3.793e+00  
+
+Coefficients of interest:
+                   Estimate Std. Error t value Pr(>|t|)    
+event               0.50995    0.10629   4.798 1.61e-06 ***
+ns(tmean, df = 3)1  0.02443    0.04855   0.503    0.615    
+ns(tmean, df = 3)2  0.16442    0.17198   0.956    0.339    
+ns(tmean, df = 3)3  0.03680    0.06089   0.604    0.546    
+ns(year, df = 3)1  -0.09758    0.01425  -6.850 7.39e-12 ***
+ns(year, df = 3)2   0.03909    0.02624   1.490    0.136    
+ns(year, df = 3)3  -0.73929    0.01207 -61.236  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.08749093)
+
+Residual deviance: 59668 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 7
+
+                       2.5 %    97.5 %
+event              1.3520459 2.0509105
+ns(tmean, df = 3)1 0.9317203 1.1270172
+ns(tmean, df = 3)2 0.8414288 1.6511833
+ns(tmean, df = 3)3 0.9207685 1.1689961
+ns(year, df = 3)1  0.8820590 0.9327140
+ns(year, df = 3)2  0.9877435 1.0947396
+ns(year, df = 3)3  0.4662865 0.4888838
+[1] FALSE

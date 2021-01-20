@@ -1,0 +1,53 @@
+# Example from Bennett et al. 2014 for Nature Climate Change
+
+model{
+	for(i in 1:1044751){   #wasBN  summer M 856266, summer F 943981, Winter M 1035451, Winter F 1184726, when get over million seems to round the last digit in the data list, hence mismatch of BN
+	
+		Bcc[i] ~ dpois(lambda[i])
+		
+		t2[i] <- BtA[i]-B0[i] # SUMMER
+		
+		log(lambda[i]) <- Bstrata[Bid[i]] - B1[i]*(step(-t2[i]) - 1)*t2[i]   + Bhol*Holiday[i] + Cpm10*PM10[i] 
+		#this is what it should be, used Q to get it to compile with Modifier+ Cpm5[Bpm10_5A[i]]
+
+		B0[i] <-  Dist85[Bladua[i]] 	#85 #18.0  #	16.8		 2.31	#being the median of the dist85
+
+		B1[i] <- A1BdistUV[Bladua[i]]
+
+	}
+
+	for(j in 1:BNid){
+		Bstrata[j] ~ dnorm(0.0 , 0.000001)
+	}
+
+	Bhol ~ dnorm(0.0, 0.0001)
+
+	Cpm10 ~ dnorm(0.0, 0.0001)
+
+	A1 ~ dnorm(0.0, 0.000001)	
+	
+	sig2_BdistV ~ dunif(0, 10)
+	tau_BdistV <- 1/sig2_BdistV
+	BdistV[1:BNdist] ~ car.normal(adjD[], weightsD[], numD[], tau_BdistV)
+
+	sig2_BdistUV ~ dunif(0, 10)
+	tau_BdistUV <- 1/sig2_BdistUV
+
+	for(d in 1:BNdist){
+		BdistUV[d] ~ dnorm(BdistV[d], tau_BdistUV)
+		A1BdistUV[d] <- BdistUV[d] + A1
+	}
+	
+	pcSpatial <- 100*pow(sd(BdistV[1:376]),2)/pow(sd(A1BdistUV[1:376]),2)
+
+}
+
+
+
+
+
+
+
+
+
+

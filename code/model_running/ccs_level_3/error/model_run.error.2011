@@ -1,0 +1,6 @@
+Loading required package: Matrix
+Error in if (abs(dev - devold)/(0.1 + abs(dev)) < control$epsilon) { : 
+  missing value where TRUE/FALSE needed
+Calls: system.time -> gnm -> glm.fit.e
+Timing stopped at: 51.93 4.293 56.26
+Execution halted

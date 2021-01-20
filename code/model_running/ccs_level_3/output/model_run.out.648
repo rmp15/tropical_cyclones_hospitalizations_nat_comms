@@ -1,0 +1,66 @@
+[1] "Cystic_fibrosis"
+[1] 7
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 34.826   5.406  40.253 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-4.546e-01  -8.938e-06  -7.573e-06  -5.939e-06   3.575e+00  
+
+Coefficients of interest:
+                   Estimate Std. Error t value Pr(>|t|)    
+event              -8.09906   11.32079  -0.715    0.474    
+ns(tmean, df = 3)1  1.82838    0.05344  34.213   <2e-16 ***
+ns(tmean, df = 3)2  7.95091    0.19239  41.328   <2e-16 ***
+ns(tmean, df = 3)3  3.11603    0.07306  42.652   <2e-16 ***
+ns(year, df = 3)1   0.84266    0.02193  38.428   <2e-16 ***
+ns(year, df = 3)2   7.17369    0.06851 104.704   <2e-16 ***
+ns(year, df = 3)3   1.39293    0.01282 108.657   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.001918048)
+
+Residual deviance: 1054.6 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 7
+
+                          2.5 %       97.5 %
+event              7.020176e-14 1.314909e+06
+ns(tmean, df = 3)1 5.604870e+00 6.911050e+00
+ns(tmean, df = 3)2 1.946601e+03 4.138070e+03
+ns(tmean, df = 3)3 1.954740e+01 2.602918e+01
+ns(year, df = 3)1  2.224822e+00 2.424520e+00
+ns(year, df = 3)2  1.140707e+03 1.492149e+03
+ns(year, df = 3)3  3.926718e+00 4.129084e+00
+[1] FALSE

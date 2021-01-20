@@ -1,0 +1,66 @@
+[1] "Cardiac_dysrhythmias"
+[1] 6
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population        rates     tmean
+1      10001   1     1 1999     0      13014 0.000000e+00 -6.110097
+2      10001   1     1 2000     0      13331 0.000000e+00  3.688167
+3      10001   1     1 2001     0      13744 0.000000e+00 -1.962286
+4      10001   1     1 2002     0      14134 0.000000e+00 -3.996383
+5      10001   1     1 2003     0      14820 0.000000e+00  8.674599
+6      10001   1     1 2004     1      15495 6.453695e-05  3.797066
+   user  system elapsed 
+ 38.741   3.267  42.040 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-4.3903  -0.6413  -0.4075  -0.1548   5.6154  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event               0.032239   0.026975    1.195    0.232    
+ns(tmean, df = 3)1  0.189841   0.008833   21.493  < 2e-16 ***
+ns(tmean, df = 3)2  0.471126   0.031473   14.969  < 2e-16 ***
+ns(tmean, df = 3)3  0.102339   0.011355    9.012  < 2e-16 ***
+ns(year, df = 3)1  -0.016452   0.002607   -6.310  2.8e-10 ***
+ns(year, df = 3)2  -0.118725   0.004776  -24.857  < 2e-16 ***
+ns(year, df = 3)3  -0.418775   0.002086 -200.708  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.9945198)
+
+Residual deviance: 3264383 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 5
+
+                       2.5 %    97.5 %
+event              0.9795792 1.0888365
+ns(tmean, df = 3)1 1.1883061 1.2301707
+ns(tmean, df = 3)2 1.5059741 1.7037157
+ns(tmean, df = 3)3 1.0833773 1.1326899
+ns(year, df = 3)1  0.9786685 0.9887227
+ns(year, df = 3)2  0.8797777 0.8964046
+ns(year, df = 3)3  0.6551675 0.6605480
+[1] FALSE

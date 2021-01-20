@@ -1,0 +1,66 @@
+[1] "Pneumonia_(except_that_caused_by_tuberculosis_or_sexually_transmitted_disease)"
+[1] 5
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population        rates     tmean
+1      10001   1     1 1999     2      13014 1.536807e-04 -6.110097
+2      10001   1     1 2000     3      13331 2.250394e-04  3.688167
+3      10001   1     1 2001     0      13744 0.000000e+00 -1.962286
+4      10001   1     1 2002     0      14134 0.000000e+00 -3.996383
+5      10001   1     1 2003     1      14820 6.747638e-05  8.674599
+6      10001   1     1 2004     1      15495 6.453695e-05  3.797066
+   user  system elapsed 
+ 24.294   2.294  26.602 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+      Min         1Q     Median         3Q        Max  
+-4.540467  -0.725518  -0.443853  -0.001827   6.993053  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event               0.015637   0.027664    0.565    0.572    
+ns(tmean, df = 3)1  0.238786   0.007208   33.127   <2e-16 ***
+ns(tmean, df = 3)2  0.732542   0.026232   27.925   <2e-16 ***
+ns(tmean, df = 3)3  0.157479   0.010708   14.707   <2e-16 ***
+ns(year, df = 3)1  -0.503131   0.002472 -203.550   <2e-16 ***
+ns(year, df = 3)2  -0.686728   0.004049 -169.618   <2e-16 ***
+ns(year, df = 3)3  -0.808583   0.002050 -394.490   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 1.017715)
+
+Residual deviance: 3706574 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 4
+
+                       2.5 %    97.5 %
+event              0.9621514 1.0723546
+ns(tmean, df = 3)1 1.2518949 1.2877726
+ns(tmean, df = 3)2 1.9761052 2.1901201
+ns(tmean, df = 3)3 1.1462457 1.1953822
+ns(year, df = 3)1  0.6017122 0.6075707
+ns(year, df = 3)2  0.4992426 0.5072290
+ns(year, df = 3)3  0.4437028 0.4472821
+[1] FALSE

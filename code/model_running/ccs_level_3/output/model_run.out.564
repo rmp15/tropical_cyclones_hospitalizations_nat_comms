@@ -1,0 +1,66 @@
+[1] "Diabetes_mellitus_without_complication"
+[1] 0
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 33.578   3.103  36.699 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-0.6862482  -0.0001453  -0.0001336  -0.0001176   4.5450991  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event              -0.291765   0.162716  -1.793 0.072957 .  
+ns(tmean, df = 3)1  0.006753   0.044331   0.152 0.878924    
+ns(tmean, df = 3)2 -0.104923   0.157551  -0.666 0.505435    
+ns(tmean, df = 3)3  0.010839   0.055961   0.194 0.846418    
+ns(year, df = 3)1  -0.368656   0.013509 -27.290  < 2e-16 ***
+ns(year, df = 3)2  -0.086750   0.023659  -3.667 0.000246 ***
+ns(year, df = 3)3  -0.880186   0.011511 -76.463  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.156629)
+
+Residual deviance: 116935 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.5429806 1.0275237
+ns(tmean, df = 3)1 0.9229930 1.0981640
+ns(tmean, df = 3)2 0.6611884 1.2261399
+ns(tmean, df = 3)3 0.9058852 1.1280845
+ns(year, df = 3)1  0.6735906 0.7102205
+ns(year, df = 3)2  0.8753598 0.9604241
+ns(year, df = 3)3  0.4054540 0.4241685
+[1] FALSE

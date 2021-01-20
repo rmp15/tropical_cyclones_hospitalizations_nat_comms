@@ -1,0 +1,66 @@
+[1] "Disorders_of_lipid_metabolism"
+[1] -2
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 44.300   3.567  47.913 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-3.353e-01  -1.935e-05  -1.862e-05  -1.671e-05   3.551e+00  
+
+Coefficients of interest:
+                   Estimate Std. Error t value Pr(>|t|)    
+event               1.19740    0.11060  10.826  < 2e-16 ***
+ns(tmean, df = 3)1  0.79704    0.05981  13.327  < 2e-16 ***
+ns(tmean, df = 3)2  3.60240    0.21472  16.777  < 2e-16 ***
+ns(tmean, df = 3)3  0.63221    0.06921   9.135  < 2e-16 ***
+ns(year, df = 3)1  -0.04190    0.01575  -2.661  0.00779 ** 
+ns(year, df = 3)2  -0.60971    0.02761 -22.081  < 2e-16 ***
+ns(year, df = 3)3  -0.98470    0.01436 -68.592  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.01165414)
+
+Residual deviance: 6980.2 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 7
+
+                        2.5 %     97.5 %
+event               2.6661393  4.1130839
+ns(tmean, df = 3)1  1.9735197  2.4949188
+ns(tmean, df = 3)2 24.0842887 55.8813801
+ns(tmean, df = 3)3  1.6430645  2.1551324
+ns(year, df = 3)1   0.9298220  0.9890237
+ns(year, df = 3)2   0.5148755  0.5737327
+ns(year, df = 3)3   0.3631858  0.3842099
+[1] FALSE

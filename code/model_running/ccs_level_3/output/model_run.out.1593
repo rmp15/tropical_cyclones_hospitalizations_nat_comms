@@ -1,0 +1,66 @@
+[1] "Esophageal_disorders"
+[1] 6
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 38.114   3.736  41.880 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.8108689  -0.3146119  -0.1824316  -0.0006015   5.0898091  
+
+Coefficients of interest:
+                    Estimate Std. Error  t value Pr(>|t|)    
+event              -0.014508   0.067111   -0.216 0.828845    
+ns(tmean, df = 3)1  0.125717   0.021420    5.869 4.38e-09 ***
+ns(tmean, df = 3)2  0.274817   0.076460    3.594 0.000325 ***
+ns(tmean, df = 3)3  0.037907   0.027449    1.381 0.167271    
+ns(year, df = 3)1  -0.285917   0.006518  -43.868  < 2e-16 ***
+ns(year, df = 3)2  -0.582536   0.011097  -52.496  < 2e-16 ***
+ns(year, df = 3)3  -0.903405   0.005658 -159.680  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.7073683)
+
+Residual deviance: 1157618 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.8641209 1.1241488
+ns(tmean, df = 3)1 1.0873406 1.1825807
+ns(tmean, df = 3)2 1.1331010 1.5290940
+ns(tmean, df = 3)3 0.9842345 1.0960423
+ns(year, df = 3)1  0.7417883 0.7609841
+ns(year, df = 3)2  0.5464651 0.5707601
+ns(year, df = 3)3  0.4007196 0.4097058
+[1] FALSE

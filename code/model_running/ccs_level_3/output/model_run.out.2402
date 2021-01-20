@@ -1,0 +1,66 @@
+[1] "Other_bone_disease_and_musculoskeletal_deformities"
+[1] 1
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 38.903  19.665  58.627 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-1.2444503  -0.1993702  -0.0003668  -0.0003429   4.7006985  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event              -0.057704   0.088401  -0.653 0.513915    
+ns(tmean, df = 3)1  0.110942   0.029271   3.790 0.000151 ***
+ns(tmean, df = 3)2  0.416662   0.103605   4.022 5.78e-05 ***
+ns(tmean, df = 3)3  0.016105   0.036873   0.437 0.662273    
+ns(year, df = 3)1  -0.174233   0.008591 -20.281  < 2e-16 ***
+ns(year, df = 3)2  -0.244624   0.015289 -16.000  < 2e-16 ***
+ns(year, df = 3)3  -0.593396   0.007010 -84.653  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.4749429)
+
+Residual deviance: 585413 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              0.7937656 1.1225004
+ns(tmean, df = 3)1 1.0550324 1.1833053
+ns(tmean, df = 3)2 1.2381264 1.8584157
+ns(tmean, df = 3)3 0.9453834 1.0923983
+ns(year, df = 3)1  0.8260744 0.8543667
+ns(year, df = 3)2  0.7598841 0.8068172
+ns(year, df = 3)3  0.5449100 0.5600905
+[1] FALSE

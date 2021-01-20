@@ -1,0 +1,66 @@
+[1] "Abdominal_hernia"
+[1] 6
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population rates     tmean
+1      10001   1     1 1999     0      13014     0 -6.110097
+2      10001   1     1 2000     0      13331     0  3.688167
+3      10001   1     1 2001     0      13744     0 -1.962286
+4      10001   1     1 2002     0      14134     0 -3.996383
+5      10001   1     1 2003     0      14820     0  8.674599
+6      10001   1     1 2004     0      15495     0  3.797066
+   user  system elapsed 
+ 42.114   3.699  45.844 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+      Min         1Q     Median         3Q        Max  
+-2.049109  -0.341704  -0.178988  -0.000659   5.322256  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event               0.121094   0.057571   2.103   0.0354 *  
+ns(tmean, df = 3)1  0.101916   0.019419   5.248 1.54e-07 ***
+ns(tmean, df = 3)2  0.286722   0.069088   4.150 3.32e-05 ***
+ns(tmean, df = 3)3 -0.010643   0.024745  -0.430   0.6671    
+ns(year, df = 3)1  -0.119707   0.005744 -20.839  < 2e-16 ***
+ns(year, df = 3)2  -0.255182   0.010270 -24.848  < 2e-16 ***
+ns(year, df = 3)3  -0.429862   0.004562 -94.227  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.7536712)
+
+Residual deviance: 1336610 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 6
+
+                       2.5 %    97.5 %
+event              1.0082914 1.2635582
+ns(tmean, df = 3)1 1.0659375 1.1502466
+ns(tmean, df = 3)2 1.1633599 1.5252082
+ns(tmean, df = 3)3 0.9425725 1.0385816
+ns(year, df = 3)1  0.8772480 0.8972258
+ns(year, df = 3)2  0.7593365 0.7905289
+ns(year, df = 3)3  0.6448075 0.6564421
+[1] FALSE

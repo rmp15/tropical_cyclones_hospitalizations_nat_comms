@@ -1,0 +1,66 @@
+[1] "Other_inflammatory_condition_of_skin"
+[1] 7
+[1] 1999
+[1] 2000
+[1] 2001
+[1] 2002
+[1] 2003
+[1] 2004
+[1] 2005
+[1] 2006
+[1] 2007
+[1] 2008
+[1] 2009
+[1] 2010
+[1] 2011
+[1] 2012
+[1] 2013
+[1] 2014
+  fipscounty day month year cases population        rates     tmean
+1      10001   1     1 1999     0      13014 0.000000e+00 -6.110097
+2      10001   1     1 2000     0      13331 0.000000e+00  3.688167
+3      10001   1     1 2001     1      13744 7.275902e-05 -1.962286
+4      10001   1     1 2002     0      14134 0.000000e+00 -3.996383
+5      10001   1     1 2003     0      14820 0.000000e+00  8.674599
+6      10001   1     1 2004     0      15495 0.000000e+00  3.797066
+   user  system elapsed 
+ 45.346  37.034  82.459 
+[1] FALSE
+
+Call:
+gnm(formula = cases ~ event + ns(tmean, df = 3) + ns(year, df = 3), 
+    eliminate = factor(stratum), family = quasipoisson, data = dat.sample, 
+    offset = logpop)
+
+Deviance Residuals: 
+       Min          1Q      Median          3Q         Max  
+-8.522e-01  -8.566e-05  -8.299e-05  -8.057e-05   3.804e+00  
+
+Coefficients of interest:
+                    Estimate Std. Error t value Pr(>|t|)    
+event              -0.307646   0.151030  -2.037  0.04165 *  
+ns(tmean, df = 3)1  0.025391   0.042190   0.602  0.54728    
+ns(tmean, df = 3)2  0.520771   0.149379   3.486  0.00049 ***
+ns(tmean, df = 3)3  0.226476   0.052702   4.297 1.73e-05 ***
+ns(year, df = 3)1  -0.163988   0.012454 -13.167  < 2e-16 ***
+ns(year, df = 3)2  -0.339225   0.021920 -15.475  < 2e-16 ***
+ns(year, df = 3)3  -0.389145   0.009784 -39.773  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasipoisson family taken to be 0.1577625)
+
+Residual deviance: 126504 on 4771745 degrees of freedom
+AIC: NA
+
+Number of iterations: 7
+
+                       2.5 %    97.5 %
+event              0.5468070 0.9884352
+ns(tmean, df = 3)1 0.9443116 1.1141387
+ns(tmean, df = 3)2 1.2560775 2.2558980
+ns(tmean, df = 3)3 1.1310905 1.3906467
+ns(year, df = 3)1  0.8282854 0.8697247
+ns(year, df = 3)2  0.6823666 0.7435923
+ns(year, df = 3)3  0.6647654 0.6907565
+[1] FALSE
