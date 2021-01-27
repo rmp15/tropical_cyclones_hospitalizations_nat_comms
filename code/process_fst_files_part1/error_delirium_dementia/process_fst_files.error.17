@@ -1,4 +1,0 @@
-Error in merge(dat_admissions_sum, code.lookup, by.x = c("DIAG1"), by.y = c("icd9"),  : 
-  object 'code.lookup' not found
-Calls: merge -> merge.data.frame -> nrow -> as.data.frame
-Execution halted

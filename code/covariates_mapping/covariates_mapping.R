@@ -233,15 +233,15 @@ library(sp)
 library(plyr)
 library(scales)
 
-# load county shapefile map
+# load county shapefile map_create
 
-# load shapefile of entire United States county map
+# load shapefile of entire United States county map_create
 us.national <- readOGR(dsn="~/git/pollution/countries/USA/data/shapefiles/cb_2015_us_county_500k",layer="cb_2015_us_county_500k")
 
 # get projection of shapefile
 original.proj = proj4string(us.national)
 
-# load county shapefile map
+# load county shapefile map_create
 us.national <- spTransform(us.national, CRS("+proj=laea +lat_0=45 +lon_0=-100 +x_0=0 +y_0=0 +a=6370997 +b=6370997 +units=m +no_defs"))
 
 # remove non-mainland territories (assuming it's for entire mainland US)
@@ -257,7 +257,7 @@ map <- fortify(us.main)
 us.main@data$id <- rownames(us.main@data)
 shapefile.data <- us.main@data
 
-# merge selected data to map dataframe for colouring of ggplot
+# merge selected data to map_create dataframe for colouring of ggplot
 USA.df <- merge(map, shapefile.data, by='id')
 USA.df$GEOID <- as.integer(as.character(USA.df$GEOID))
 

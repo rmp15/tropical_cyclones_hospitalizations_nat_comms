@@ -49,7 +49,7 @@ icd10_map_ccs <- icd10_map_ccs$single
 names(icd10_map_ccs) <- paste0(names(icd10_map_ccs))
 names(icd9_map_single_ccs) <- paste0(names(icd9_map_single_ccs))
 
-# map each ccs to each ICD 9 and 10
+# map_create each ccs to each ICD 9 and 10
 selected_codes <- paste0(all_ccs_codes)
 for (code in selected_codes) {
   ccs_codes[[code]][["icd10"]] <- icd10_map_ccs[[code]]
