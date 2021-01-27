@@ -1,6 +1,0 @@
-Error in gzfile(file, "rb") : cannot open the connection
-Calls: readRDS -> gzfile
-In addition: Warning message:
-In gzfile(file, "rb") :
-  cannot open compressed file '/nfs/home/R/rop290/git/rmparks_coastal_storms_Jan_2020/data/expanded_grid_hospitalisations/1999_2014/medicare_Induced_abortion_rates_expanded_grid_hospitalisations_1999_2014.rds', probable reason 'No such file or directory'
-Execution halted

@@ -1,16 +1,13 @@
 # Tropical cyclone exposure is associated with increased hospitalization rates in older adults
 Code used for analysis and plotting of Figures for Parks et al. Nature Communications paper 2021
 
-# Process Exposure Data
-process_exposure_data/process_exposure_data.R
-
-# Model
+# Model for main analyses in paper
 model/model.R
 
 # Figure 1
 figures/figure_1.R
 
-# Figure 2
+# Figure 2 (cannot share data so only demonstration of plotting)
 figures/figure_2.R
 
 # Figure 3

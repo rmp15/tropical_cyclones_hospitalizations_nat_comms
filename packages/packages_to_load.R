@@ -9,4 +9,3 @@ if(length(new.packages)) install.packages(new.packages)
 
 # load packages
 lapply(list.of.packages, require, character.only = TRUE)
-

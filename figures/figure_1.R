@@ -13,24 +13,23 @@ output.folder <- paste0(project.folder,'output/')
 source(paste0(packages.folder,'packages_to_load.R'))
 
 # years of study
-start_year = 1999; end_year = 2014
+start_year <- 1999; end_year <- 2014
 
 # load processed tropical cyclone exposure file by days of exposure per county
-dat.event.sum = read.csv(paste0(data.folder,'events_by_county_',start_year,'_',end_year,'.csv'))
+dat.event.sum <- read.csv(paste0(data.folder,'figure_1_events_by_county_',start_year,'_',end_year,'.csv'))
 
 # process United States map
 source(paste0(project.folder,'map_create/map_create.R'))
 
 # merge tropical cyclone exposure data with map file and prepare for plotting in ggplot
-USA.df.merged = merge(USA.df,dat.event.sum,by.x='GEOID',by.y='fips',all.x=TRUE)
+USA.df.merged <- merge(USA.df,dat.event.sum,by.x='GEOID',by.y='fips',all.x=TRUE)
 USA.df.merged[is.na(USA.df.merged)] <- 0
 USA.df.merged <- with(USA.df.merged, USA.df.merged[order(id,order),])
 
 # color palette for map
-colorfunc = colorRampPalette(c(brewer.pal(6 , "BrBG" )[1:3],brewer.pal(6 , "RdGy" )[4:6]))
-colorpalette = c('cornsilk',"blue","darkblue","black")
+colorpalette <- c('cornsilk',"blue","darkblue","black")
 
-# save map plot output
+# save map plot output for Figure 1
 pdf(paste0(output.folder,'figure_1.pdf'),paper='a4r',width=0,height=0)
 print(ggplot() +
     geom_polygon(data=subset(USA.df.merged),aes(x=long,y=lat,group=group,fill=cases),color='black',size=0.001) +

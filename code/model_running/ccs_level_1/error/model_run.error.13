@@ -1,9 +1,0 @@
-This is dlnm 2.3.9. For details: help(dlnm) and vignette('dlnmOverview').
-Warning message:
-In (function (fun = NULL, df = NULL, knots = NULL, ...)  :
-  default knots placement along lags has changed since version 2.0.0.
-See 'file.show(system.file('Changesince200',package='dlnm'))'.
-See also help(logknots) for setting the knots
-consistently with the previous versions
-Warning message:
-Removed 4 rows containing missing values (geom_point). 
