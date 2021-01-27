@@ -16,7 +16,7 @@ source(paste0(packages.folder,'packages_to_load.R'))
 # years of study
 start_year <- 1999; end_year <- 2014
 
-# load processed tropical cyclone exposure file by days of exposure per county
+# load results
 dat.results <- read.csv(paste0(data.folder,'figure_3_model_results_',start_year,'_',end_year,'.csv'))
 
 # colors for CCS Level 1 causes of death
@@ -29,7 +29,7 @@ dat.results$ccs_level_1_description = factor(dat.results$ccs_level_1_description
                                     'Infectious and parasitic diseases','Musculoskeletal and connective tissue diseases',
                                     'Nervous system diseases','Skin and subcutaneous tissue diseases'))
 
-# save plot output for Figure 2
+# save plot output for Figure 3
 pdf(paste0(output.folder,'figure_3.pdf'),paper='a4r',width=0,height=0)
 ggplot() +
     geom_errorbar(data=subset(dat.results),aes(x=as.factor(lag.factor),ymax=rr.ll.bfc-1,ymin=rr.ul.bfc-1),width=.2,size=0.5) +

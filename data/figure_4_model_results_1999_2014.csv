@@ -1,0 +1,134 @@
+ccs_level_1_description,top,err.mean,err.mean.ll,err.mean.ul,ccs_level_3_description,order
+Cardiovascular diseases,1,-0.003018028,-0.012547939,0.007319509,Cardiovascular diseases,1
+Cardiovascular diseases,0,0.128828256,0.053741409,0.235458071,Other diseases of veins and lymphatics,2
+Cardiovascular diseases,0,0.070069389,0.042082475,0.102744212,Acute myocardial infarction,4
+Cardiovascular diseases,0,0.060298109,0.018764008,0.113831609,Pulmonary heart disease,5
+Cardiovascular diseases,0,0.041625524,0.015734748,0.072279389,Nonspecific chest pain,6
+Cardiovascular diseases,0,0.027941465,-0.017866293,0.093335503,Late effects of cerebrovascular disease,7
+Cardiovascular diseases,0,0.011275721,-0.008468934,0.034365847,Stroke,8
+Cardiovascular diseases,0,0.006379787,-0.019220236,0.038175334,Hypertension with complications and secondary hypertension,9
+Cardiovascular diseases,0,0.005651697,-0.018569364,0.035384892,Transient cerebral ischemia,10
+Cardiovascular diseases,0,0.005632866,-0.022137055,0.040899836,Other circulatory disease,11
+Cardiovascular diseases,0,0.001708088,-0.034863202,0.053117482,Aortic and peripheral arterial embolism or thrombosis,12
+Cardiovascular diseases,0,-0.023689014,-0.036772611,-0.008665197,Cardiac dysrhythmias,13
+Cardiovascular diseases,0,-0.038152106,-0.06499846,0.000706052,Other and ill-defined cerebrovascular disease,14
+Cardiovascular diseases,0,-0.04151721,-0.052326228,-0.029100529,Coronary atherosclerosis,15
+Cardiovascular diseases,0,-0.050570076,-0.066122284,-0.030909841,Atherosclerosis,16
+Cardiovascular diseases,0,-0.055431832,-0.072448807,-0.032904469,Conduction disorders,17
+Cardiovascular diseases,0,-0.056527742,-0.07643748,-0.028455378,Hemorrhoids,19
+Cardiovascular diseases,0,-0.070024521,-0.083118208,-0.052837297,Heart valve disorders,20
+Cardiovascular diseases,0,-0.073456479,-0.086804327,-0.055444095,Essential hypertension,21
+Cardiovascular diseases,0,-0.087288395,-0.095749804,-0.076379294,Occlusion or stenosis of precerebral arteries,22
+Respiratory diseases,1,0.141671503,0.108969228,0.17894463,Respiratory diseases,24
+Respiratory diseases,0,0.446899,0.365520131,0.541778887,COPD,25
+Respiratory diseases,0,0.280177804,0.19065561,0.395089134,Asthma,26
+Respiratory diseases,0,0.073196079,0.046979719,0.103408827,Pneumonia,28
+Respiratory diseases,0,0.073041511,0.026536013,0.133819267,Other lower respiratory disease,29
+Respiratory diseases,0,-0.009077393,-0.046008513,0.04512024,Acute bronchitis,30
+Respiratory diseases,0,-0.085815271,-0.098816509,-0.066358353,Other upper respiratory disease,31
+Respiratory diseases,0,-0.087953982,-0.101120797,-0.067527082,Other upper respiratory infections,32
+Cancers,1,-0.044433697,-0.057619757,-0.028667174,Cancers,34
+Cancers,0,0.104657104,0.03992496,0.194796259,Leukemias,36
+Cancers,0,0.068430972,0.009134952,0.153939534,Brain and nervous system,37
+Cancers,0,0.048098625,0.000795665,0.113188922,Pancreas,38
+Cancers,0,-0.010986087,-0.033472457,0.017024705,Secondary malignancies,39
+Cancers,0,-0.013529394,-0.045931007,0.032150046,Rectum and anus,40
+Cancers,0,-0.020541371,-0.04824054,0.017153231,Bladder,41
+Cancers,0,-0.027016636,-0.054196432,0.010596835,Cancers of unspecified nature or uncertain behavior,42
+Cancers,0,-0.03013157,-0.059395005,0.012184966,Head and neck,43
+Cancers,0,-0.032213051,-0.060039291,0.007532694,Stomach,44
+Cancers,0,-0.042325719,-0.065944408,-0.009260973,Non-Hodgkin's lymphoma,45
+Cancers,0,-0.05725858,-0.073915457,-0.035170481,Other (benign),46
+Cancers,0,-0.069704702,-0.087972372,-0.042424634,Ovary,50
+Cancers,0,-0.070313616,-0.083598037,-0.052766695,Colon,51
+Cancers,0,-0.071054161,-0.088011761,-0.046322192,Uterus,52
+Cancers,0,-0.077039096,-0.090390751,-0.058536602,Prostate,53
+Cancers,0,-0.082140766,-0.094184864,-0.065389231,Breast,54
+Cancers,0,-0.0969542,-0.105719383,-0.084204267,Kidney and renal pelvis,56
+Injuries,1,0.086884964,0.059922162,0.11777911,Injuries,67
+Injuries,0,0.788960621,0.555564968,1.102397907,Other injuries and conditions due to external causes,70
+Injuries,0,0.287232193,0.20796687,0.385367236,Other fractures,73
+Injuries,0,0.277541114,0.189180472,0.390752451,Fracture of lower limb,74
+Injuries,0,0.247949424,0.141662318,0.39660078,Crushing injury or internal injury,75
+Injuries,0,0.22476617,0.146989499,0.324783444,Fracture of upper limb,76
+Injuries,0,0.194701595,0.145353713,0.253056985,Fracture of neck of femur hip,78
+Injuries,0,0.167542593,0.082053689,0.288328394,Sprains and strains,79
+Injuries,0,0.127777755,0.072546018,0.19845169,Intracranial injury,80
+Injuries,0,-0.046271572,-0.06042922,-0.029009751,Complications (surgical/medical),82
+Injuries,0,-0.05485748,-0.075371188,-0.025864581,Poisoning by other medications and drugs,83
+Neuropsychiatric disorders,1,0.00582994,-0.022649976,0.042234677,Neuropsychiatric disorders,84
+Neuropsychiatric disorders,0,0.052570178,0.016512995,0.097814648,Delirium and dementia,85
+Neuropsychiatric disorders,0,-0.006381959,-0.034300643,0.030130533,Schizophrenia and other psychotic disorders,87
+Neuropsychiatric disorders,0,-0.02706363,-0.048342573,0.000122024,Mood disorders,88
+Neuropsychiatric disorders,0,-0.055217216,-0.076789049,-0.023993137,Substance-related disorders,89
+Neuropsychiatric disorders,0,-0.055655907,-0.075304356,-0.02823894,Alcohol-related disorders,90
+Blood diseases,1,-0.028574842,-0.054126798,0.006189375,Blood diseases,98
+Blood diseases,0,0.057105692,0.005431123,0.129252837,Coagulation and hemorrhagic disorders,99
+Blood diseases,0,-0.033303166,-0.05958399,0.003535957,Diseases of white blood cells,100
+Blood diseases,0,-0.038883804,-0.0568433,-0.016191926,Deficiency and other anemia,101
+Blood diseases,0,-0.053661177,-0.077782152,-0.017218134,Acute posthemorrhagic anemia,102
+Digestive system diseases,1,-0.02242112,-0.035360844,-0.007613501,Digestive system diseases,105
+Digestive system diseases,0,0.119384448,0.057372505,0.20248225,Other liver diseases,106
+Digestive system diseases,0,0.041642652,-0.004712173,0.105861046,Appendicitis and other appendiceal conditions,107
+Digestive system diseases,0,0.016482882,-0.015444398,0.057714581,Intestinal infection,108
+Digestive system diseases,0,0.004371205,-0.02615269,0.044320831,Gastritis and duodenitis,109
+Digestive system diseases,0,-0.00214905,-0.035495062,0.043620373,Other disorders of stomach and duodenum,110
+Digestive system diseases,0,-0.010545318,-0.036021682,0.022225465,Abdominal hernia,111
+Digestive system diseases,0,-0.015510285,-0.044018447,0.023033685,Noninfectious gastroenteritis,112
+Digestive system diseases,0,-0.017186468,-0.036042349,0.005666195,Gastrointestinal hemorrhage,113
+Digestive system diseases,0,-0.025359803,-0.054720011,0.016265942,Regional enteritis and ulcerative colitis,114
+Digestive system diseases,0,-0.028943269,-0.051679151,0.000842727,Pancreatic disorders not diabetes,115
+Digestive system diseases,0,-0.03274534,-0.050209323,-0.011203434,Bowel obstruction,116
+Digestive system diseases,0,-0.03509235,-0.051598946,-0.014873712,Diverticulosis and diverticulitis,117
+Digestive system diseases,0,-0.035266315,-0.054574422,-0.010664634,Other gastrointestinal disorders,118
+Digestive system diseases,0,-0.040587244,-0.060769496,-0.014063406,Esophageal disorders,119
+Digestive system diseases,0,-0.045406922,-0.060695049,-0.026484133,Biliary tract disease,120
+Digestive system diseases,0,-0.064004277,-0.082475359,-0.037510063,Anal and rectal conditions,123
+Digestive system diseases,0,-0.070987358,-0.08717095,-0.047880287,Gastroduodenal ulcer except hemorrhage,124
+Endocrine disorders,1,0.029164045,0.001178678,0.063356331,Endocrine disorders,125
+Endocrine disorders,0,0.095370808,0.060552664,0.136722425,Fluid and electrolyte disorders,127
+Endocrine disorders,0,0.010850804,-0.030364355,0.070015748,Thyroid disorders,128
+Endocrine disorders,0,-0.017715217,-0.03781986,0.007025766,Diabetes mellitus with complications,129
+Endocrine disorders,0,-0.064940235,-0.081350992,-0.042359509,Other endocrine disorders,130
+Endocrine disorders,0,-0.071382667,-0.088816906,-0.04554802,Gout and other crystal arthropathies,131
+Genitourinary diseases,1,0.018049901,-0.00402772,0.044156719,Genitourinary diseases,135
+Genitourinary diseases,0,0.095274674,0.058223065,0.139818909,Renal failure (acute/unspecified),138
+Genitourinary diseases,0,0.046771204,0.000881569,0.109389726,Genitourinary symptoms and ill-defined conditions,139
+Genitourinary diseases,0,0.020716422,-0.000280936,0.045248837,Urinary tract infections,140
+Genitourinary diseases,0,-0.011287673,-0.045049635,0.036731511,Other diseases of kidney and ureters,141
+Genitourinary diseases,0,-0.024836533,-0.055056394,0.018440133,Other diseases of bladder and urethra,142
+Genitourinary diseases,0,-0.053845789,-0.072435973,-0.028680864,Calculus of urinary tract,143
+Genitourinary diseases,0,-0.061514518,-0.077774939,-0.039655347,Hyperplasia of prostate,145
+Genitourinary diseases,0,-0.087974764,-0.098242206,-0.07376752,Prolapse of female genital organs,147
+Genitourinary diseases,0,-0.107830669,-0.113594436,-0.099154198,Other female genital disorders,148
+Infectious and parasitic diseases,1,0.043386606,0.012368209,0.081409105,Infectious and parasitic diseases,154
+Infectious and parasitic diseases,0,0.050607081,0.027175484,0.077646616,Septicemia except in labor,156
+Infectious and parasitic diseases,0,-0.022403944,-0.053158438,0.021516174,Mycoses,157
+Infectious and parasitic diseases,0,-0.04328068,-0.067332649,-0.009197085,Viral infection,159
+"Musculoskeletal and
+connective tissue diseases",1,-0.054046888,-0.065630935,-0.040202571,Musculoskeletal and connective tissue diseases,163
+"Musculoskeletal and
+connective tissue diseases",0,0.058882577,0.013880485,0.118466908,Pathological fracture,164
+"Musculoskeletal and
+connective tissue diseases",0,0.04735521,-0.00166252,0.115853944,Other non-traumatic joint disorders,165
+"Musculoskeletal and
+connective tissue diseases",0,0.04152501,0.001341039,0.094489876,Other connective tissue disease,166
+"Musculoskeletal and
+connective tissue diseases",0,-0.027514338,-0.054009281,0.008868967,Infective arthritis and osteomyelitis,168
+"Musculoskeletal and
+connective tissue diseases",0,-0.034233448,-0.060038248,0.00182181,Other bone disease and musculoskeletal deformities,169
+"Musculoskeletal and
+connective tissue diseases",0,-0.072736381,-0.080929208,-0.063020494,Osteoarthritis,171
+"Musculoskeletal and
+connective tissue diseases",0,-0.100049809,-0.108643711,-0.086940508,Other acquired deformities,172
+Nervous system diseases,1,0.029529834,-0.003823085,0.072062862,Nervous system diseases,175
+Nervous system diseases,0,0.128068053,0.075726706,0.194057892,Other nervous system disorders,178
+Nervous system diseases,0,0.043037012,-0.006523404,0.113329243,Parkinson's disease,179
+Nervous system diseases,0,0.018922157,-0.014509153,0.062468807,Conditions associated with dizziness or vertigo,180
+Nervous system diseases,0,-0.078520147,-0.09190546,-0.059721054,Other hereditary and degenerative nervous system conditions,187
+"Skin and subcutaneous
+tissue diseases",1,0.039931305,0.001896759,0.08936588,Skin and subcutaneous tissue diseases,191
+"Skin and subcutaneous
+tissue diseases",0,0.046741683,0.005150437,0.101623946,Chronic ulcer of skin,192
+"Skin and subcutaneous
+tissue diseases",0,0.035330497,0.007439398,0.069095326,Skin infections,193
