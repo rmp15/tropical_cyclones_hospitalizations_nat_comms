@@ -1,0 +1,209 @@
+lag,rr,rr.ll.bfc,rr.ul.bfc,ccs_level_1_description,type,lag.factor
+0,0.687860619,0.572824953,0.825997939,Neuropsychiatric disorders,Not Emergency,0
+1,0.964917094,0.833736342,1.116737931,Neuropsychiatric disorders,Not Emergency,1
+2,1.082165321,0.940985302,1.244527178,Neuropsychiatric disorders,Not Emergency,2
+3,1.052343548,0.913980525,1.21165267,Neuropsychiatric disorders,Not Emergency,3
+4,0.985628528,0.856726248,1.133925332,Neuropsychiatric disorders,Not Emergency,4
+5,1.004312998,0.869940588,1.159440784,Neuropsychiatric disorders,Not Emergency,5
+6,1.146421835,0.994001086,1.322214878,Neuropsychiatric disorders,Not Emergency,6
+7,1.011973655,0.87032459,1.176676712,Neuropsychiatric disorders,Not Emergency,7
+0,0.792041119,0.714125686,0.878457597,Neuropsychiatric disorders,Emergency,0
+1,1.016860146,0.92951135,1.112417355,Neuropsychiatric disorders,Emergency,1
+2,1.048043804,0.959333848,1.144956802,Neuropsychiatric disorders,Emergency,2
+3,1.061106779,0.973720451,1.156335575,Neuropsychiatric disorders,Emergency,3
+4,1.058684957,0.972649379,1.152330802,Neuropsychiatric disorders,Emergency,4
+5,1.049790544,0.962540716,1.144949162,Neuropsychiatric disorders,Emergency,5
+6,1.056677571,0.965594643,1.156352201,Neuropsychiatric disorders,Emergency,6
+7,1.028306377,0.937328434,1.128114721,Neuropsychiatric disorders,Emergency,7
+0,0.755324889,0.666942819,0.855419193,Injuries,Not Emergency,0
+1,0.774888295,0.691102056,0.868832416,Injuries,Not Emergency,1
+2,0.939947351,0.848234395,1.041576511,Injuries,Not Emergency,2
+3,1.004354325,0.912426763,1.105543646,Injuries,Not Emergency,3
+4,1.021986671,0.93176038,1.120949954,Injuries,Not Emergency,4
+5,1.087847895,0.987870567,1.197943417,Injuries,Not Emergency,5
+6,1.020655663,0.918551047,1.134110059,Injuries,Not Emergency,6
+7,1.009665901,0.906557663,1.124501257,Injuries,Not Emergency,7
+0,1.004219042,0.951412559,1.059956457,Injuries,Emergency,0
+1,1.157778122,1.101508909,1.216921777,Injuries,Emergency,1
+2,1.181602026,1.124909431,1.241151785,Injuries,Emergency,2
+3,1.142705936,1.087453224,1.200765998,Injuries,Emergency,3
+4,1.073073799,1.019584937,1.129368763,Injuries,Emergency,4
+5,1.117225179,1.061980186,1.175344058,Injuries,Emergency,5
+6,1.048912532,0.99512628,1.105605914,Injuries,Emergency,6
+7,1.016471985,0.96323316,1.072653371,Injuries,Emergency,7
+0,0.620108956,0.56071938,0.685788883,Musculoskeletal and connective tissue diseases,Not Emergency,0
+1,0.737798772,0.680269517,0.80019318,Musculoskeletal and connective tissue diseases,Not Emergency,1
+2,0.899462424,0.838392939,0.964980278,Musculoskeletal and connective tissue diseases,Not Emergency,2
+3,0.944470338,0.883529201,1.00961487,Musculoskeletal and connective tissue diseases,Not Emergency,3
+4,0.979237877,0.915177319,1.047782545,Musculoskeletal and connective tissue diseases,Not Emergency,4
+5,1.043250528,0.969602114,1.122493082,Musculoskeletal and connective tissue diseases,Not Emergency,5
+6,1.050276248,0.97027223,1.136877017,Musculoskeletal and connective tissue diseases,Not Emergency,6
+7,0.982633165,0.905859571,1.06591349,Musculoskeletal and connective tissue diseases,Not Emergency,7
+0,0.80562897,0.724822854,0.895443672,Musculoskeletal and connective tissue diseases,Emergency,0
+1,0.97715365,0.889750795,1.073142346,Musculoskeletal and connective tissue diseases,Emergency,1
+2,1.043765377,0.9556228,1.14003785,Musculoskeletal and connective tissue diseases,Emergency,2
+3,1.038051988,0.950922814,1.133164453,Musculoskeletal and connective tissue diseases,Emergency,3
+4,1.074052249,0.984031406,1.172308349,Musculoskeletal and connective tissue diseases,Emergency,4
+5,1.119794567,1.024875002,1.223505179,Musculoskeletal and connective tissue diseases,Emergency,5
+6,1.084324143,0.989590139,1.188127086,Musculoskeletal and connective tissue diseases,Emergency,6
+7,1.026652055,0.934685316,1.127667702,Musculoskeletal and connective tissue diseases,Emergency,7
+0,0.559165345,0.451302042,0.692808482,Skin and subcutaneous tissue diseases,Not Emergency,0
+1,0.856431706,0.722504028,1.015185022,Skin and subcutaneous tissue diseases,Not Emergency,1
+2,0.972313374,0.832663795,1.135384176,Skin and subcutaneous tissue diseases,Not Emergency,2
+3,1.134637053,0.985242819,1.306684218,Skin and subcutaneous tissue diseases,Not Emergency,3
+4,0.980162608,0.844815646,1.137193354,Skin and subcutaneous tissue diseases,Not Emergency,4
+5,0.933724695,0.795584332,1.0958509,Skin and subcutaneous tissue diseases,Not Emergency,5
+6,1.024283862,0.876408128,1.197110565,Skin and subcutaneous tissue diseases,Not Emergency,6
+7,1.117529397,0.954882952,1.307879619,Skin and subcutaneous tissue diseases,Not Emergency,7
+0,0.837842105,0.753200256,0.931995692,Skin and subcutaneous tissue diseases,Emergency,0
+1,0.968524992,0.878192712,1.068148993,Skin and subcutaneous tissue diseases,Emergency,1
+2,1.121620154,1.024296726,1.228190756,Skin and subcutaneous tissue diseases,Emergency,2
+3,1.077271896,0.982664651,1.18098757,Skin and subcutaneous tissue diseases,Emergency,3
+4,1.159812232,1.062135742,1.266471279,Skin and subcutaneous tissue diseases,Emergency,4
+5,1.082122259,0.986025882,1.187584023,Skin and subcutaneous tissue diseases,Emergency,5
+6,1.088403087,0.990896732,1.195504275,Skin and subcutaneous tissue diseases,Emergency,6
+7,1.080287266,0.981933658,1.188492287,Skin and subcutaneous tissue diseases,Emergency,7
+0,0.696532449,0.601187818,0.806998143,Genitourinary diseases,Not Emergency,0
+1,0.797745268,0.701074818,0.907745501,Genitourinary diseases,Not Emergency,1
+2,0.873584508,0.775691941,0.983831148,Genitourinary diseases,Not Emergency,2
+3,1.083185091,0.975748953,1.202450627,Genitourinary diseases,Not Emergency,3
+4,0.999568848,0.89952291,1.110742007,Genitourinary diseases,Not Emergency,4
+5,1.010312617,0.903923344,1.129223612,Genitourinary diseases,Not Emergency,5
+6,1.037149355,0.92030632,1.168826902,Genitourinary diseases,Not Emergency,6
+7,0.918569184,0.806826147,1.0457883,Genitourinary diseases,Not Emergency,7
+0,0.897668906,0.837914214,0.961684922,Genitourinary diseases,Emergency,0
+1,0.975234419,0.913631437,1.040991075,Genitourinary diseases,Emergency,1
+2,1.102493799,1.037085304,1.172027577,Genitourinary diseases,Emergency,2
+3,1.081932228,1.017847299,1.150052024,Genitourinary diseases,Emergency,3
+4,1.113220703,1.047654322,1.18289049,Genitourinary diseases,Emergency,4
+5,1.047660901,0.983633686,1.115855809,Genitourinary diseases,Emergency,5
+6,1.068578895,1.003020597,1.138422141,Genitourinary diseases,Emergency,6
+7,1.003945522,0.940818315,1.07130845,Genitourinary diseases,Emergency,7
+0,0.638876396,0.555290097,0.735044712,Digestive system diseases,Not Emergency,0
+1,0.809565665,0.718671128,0.911956164,Digestive system diseases,Not Emergency,1
+2,0.901252023,0.806205491,1.007503941,Digestive system diseases,Not Emergency,2
+3,0.975005577,0.878807338,1.081734112,Digestive system diseases,Not Emergency,3
+4,0.890782075,0.801614231,0.989868535,Digestive system diseases,Not Emergency,4
+5,1.10626242,1.000702477,1.222957443,Digestive system diseases,Not Emergency,5
+6,1.032258517,0.926170599,1.150498241,Digestive system diseases,Not Emergency,6
+7,0.984558644,0.878617971,1.103273272,Digestive system diseases,Not Emergency,7
+0,0.865347545,0.819796861,0.913429179,Digestive system diseases,Emergency,0
+1,0.933148478,0.886502671,0.982248683,Digestive system diseases,Emergency,1
+2,1.007620722,0.958977396,1.058731439,Digestive system diseases,Emergency,2
+3,1.018368939,0.969777642,1.069394933,Digestive system diseases,Emergency,3
+4,1.017600727,0.968998686,1.068640498,Digestive system diseases,Emergency,4
+5,1.006787929,0.958112837,1.057935866,Digestive system diseases,Emergency,5
+6,1.02544181,0.975830522,1.07757534,Digestive system diseases,Emergency,6
+7,1.007372742,0.957874736,1.059428549,Digestive system diseases,Emergency,7
+0,0.817162132,0.700565898,0.953163653,Respiratory diseases,Not Emergency,0
+1,1.064401221,0.93397769,1.213037496,Respiratory diseases,Not Emergency,1
+2,1.145686269,1.01180635,1.297280875,Respiratory diseases,Not Emergency,2
+3,1.107867049,0.975767546,1.257850195,Respiratory diseases,Not Emergency,3
+4,1.064410231,0.940593741,1.204525494,Respiratory diseases,Not Emergency,4
+5,1.023215633,0.897970772,1.165929077,Respiratory diseases,Not Emergency,5
+6,0.969666501,0.844025594,1.114010203,Respiratory diseases,Not Emergency,6
+7,0.976494518,0.847863109,1.124640915,Respiratory diseases,Not Emergency,7
+0,1.082573853,1.031445645,1.136236459,Respiratory diseases,Emergency,0
+1,1.251559072,1.19694545,1.308664577,Respiratory diseases,Emergency,1
+2,1.225263288,1.171299855,1.281712891,Respiratory diseases,Emergency,2
+3,1.076545371,1.026518697,1.12901006,Respiratory diseases,Emergency,3
+4,1.07057748,1.020945126,1.122622668,Respiratory diseases,Emergency,4
+5,1.040864497,0.99149797,1.092688976,Respiratory diseases,Emergency,5
+6,1.063920541,1.013587476,1.116753063,Respiratory diseases,Emergency,6
+7,1.04355819,0.993793932,1.095814395,Respiratory diseases,Emergency,7
+0,0.645596606,0.590987253,0.705252059,Cardiovascular diseases,Not Emergency,0
+1,0.753868107,0.697961889,0.814252371,Cardiovascular diseases,Not Emergency,1
+2,0.886521033,0.826926444,0.95041046,Cardiovascular diseases,Not Emergency,2
+3,0.998663452,0.936923407,1.064471955,Cardiovascular diseases,Not Emergency,3
+4,0.971886368,0.912520906,1.035113942,Cardiovascular diseases,Not Emergency,4
+5,1.009330657,0.945565067,1.077396374,Cardiovascular diseases,Not Emergency,5
+6,0.997397938,0.929604174,1.070135737,Cardiovascular diseases,Not Emergency,6
+7,0.959763444,0.892088597,1.032572183,Cardiovascular diseases,Not Emergency,7
+0,0.882670921,0.853572375,0.912761446,Cardiovascular diseases,Emergency,0
+1,1.006030791,0.975377145,1.037647804,Cardiovascular diseases,Emergency,1
+2,1.084844925,1.052969919,1.117684835,Cardiovascular diseases,Emergency,2
+3,1.052827109,1.021784975,1.084812313,Cardiovascular diseases,Emergency,3
+4,1.048000537,1.017133604,1.079804188,Cardiovascular diseases,Emergency,4
+5,1.038314823,1.007094565,1.070502918,Cardiovascular diseases,Emergency,5
+6,1.022132897,0.990821257,1.054434038,Cardiovascular diseases,Emergency,6
+7,1.004459555,0.973333438,1.036581051,Cardiovascular diseases,Emergency,7
+0,0.615111907,0.493106133,0.767304711,Nervous system diseases,Not Emergency,0
+1,0.891247685,0.749293227,1.060095577,Nervous system diseases,Not Emergency,1
+2,1.027523726,0.875604794,1.205800852,Nervous system diseases,Not Emergency,2
+3,0.858060974,0.725656951,1.014623556,Nervous system diseases,Not Emergency,3
+4,1.084653197,0.934653225,1.258726259,Nervous system diseases,Not Emergency,4
+5,1.041163106,0.883597052,1.226826877,Nervous system diseases,Not Emergency,5
+6,0.974294613,0.821295187,1.155796366,Nervous system diseases,Not Emergency,6
+7,1.065765944,0.899826844,1.262306249,Nervous system diseases,Not Emergency,7
+0,0.856352705,0.777813103,0.942822837,Nervous system diseases,Emergency,0
+1,1.0811114,0.992731115,1.177359954,Nervous system diseases,Emergency,1
+2,1.140889441,1.050398782,1.239175767,Nervous system diseases,Emergency,2
+3,1.04817147,0.962438228,1.141541763,Nervous system diseases,Emergency,3
+4,1.04408748,0.957819242,1.138125669,Nervous system diseases,Emergency,4
+5,1.040968307,0.954235439,1.135584544,Nervous system diseases,Emergency,5
+6,0.996279432,0.910782838,1.089801723,Nervous system diseases,Emergency,6
+7,1.111806367,1.021126025,1.210539509,Nervous system diseases,Emergency,7
+0,0.556166033,0.4393187,0.704091713,Blood diseases,Not Emergency,0
+1,0.720221137,0.591007679,0.877684851,Blood diseases,Not Emergency,1
+2,0.850654537,0.710141301,1.018970646,Blood diseases,Not Emergency,2
+3,1.06684794,0.912554054,1.247229708,Blood diseases,Not Emergency,3
+4,0.841255583,0.710285816,0.996374894,Blood diseases,Not Emergency,4
+5,1.011764912,0.859098895,1.191560415,Blood diseases,Not Emergency,5
+6,1.202452667,1.029789072,1.404066575,Blood diseases,Not Emergency,6
+7,0.917035813,0.766392367,1.097290003,Blood diseases,Not Emergency,7
+0,0.817642306,0.721380692,0.926749147,Blood diseases,Emergency,0
+1,0.932055913,0.830922353,1.045498682,Blood diseases,Emergency,1
+2,0.951931022,0.852803849,1.06258042,Blood diseases,Emergency,2
+3,0.942117601,0.844618011,1.050872185,Blood diseases,Emergency,3
+4,1.077855818,0.971992624,1.195248952,Blood diseases,Emergency,4
+5,1.029687272,0.925611699,1.14546508,Blood diseases,Emergency,5
+6,1.038292358,0.931028348,1.157914282,Blood diseases,Emergency,6
+7,1.05684933,0.946288384,1.18032782,Blood diseases,Emergency,7
+0,0.708681354,0.59420616,0.845210459,Endocrine disorders,Not Emergency,0
+1,0.926106371,0.795657249,1.077942811,Endocrine disorders,Not Emergency,1
+2,0.976035327,0.841855084,1.131602074,Endocrine disorders,Not Emergency,2
+3,0.968967864,0.841635665,1.115564322,Endocrine disorders,Not Emergency,3
+4,0.943379356,0.820680355,1.084422948,Endocrine disorders,Not Emergency,4
+5,1.130177044,0.986533742,1.29473539,Endocrine disorders,Not Emergency,5
+6,1.121023063,0.974050622,1.290171866,Endocrine disorders,Not Emergency,6
+7,0.96709279,0.829723681,1.127204738,Endocrine disorders,Not Emergency,7
+0,0.804381232,0.740196132,0.874132056,Endocrine disorders,Emergency,0
+1,1.048439606,0.975279721,1.127087525,Endocrine disorders,Emergency,1
+2,1.126375389,1.050786258,1.207402083,Endocrine disorders,Emergency,2
+3,1.107279512,1.032817295,1.187110173,Endocrine disorders,Emergency,3
+4,1.110303855,1.036144915,1.189770496,Endocrine disorders,Emergency,4
+5,1.031524669,0.959727215,1.10869331,Endocrine disorders,Emergency,5
+6,1.077332497,1.001527169,1.158875509,Endocrine disorders,Emergency,6
+7,1.012174217,0.938712423,1.091384987,Endocrine disorders,Emergency,7
+0,0.659452445,0.591640527,0.735036744,Cancers,Not Emergency,0
+1,0.735992323,0.668959515,0.809742125,Cancers,Not Emergency,1
+2,0.921987494,0.848690553,1.001614707,Cancers,Not Emergency,2
+3,0.992485179,0.919395037,1.071385846,Cancers,Not Emergency,3
+4,0.999397116,0.926522417,1.078003701,Cancers,Not Emergency,4
+5,1.032538195,0.954003028,1.117538512,Cancers,Not Emergency,5
+6,0.958478275,0.877235185,1.047245503,Cancers,Not Emergency,6
+7,0.920325987,0.839220146,1.009270244,Cancers,Not Emergency,7
+0,0.807991573,0.738981691,0.883445951,Cancers,Emergency,0
+1,0.949371582,0.876932114,1.027794952,Cancers,Emergency,1
+2,1.026172427,0.950882536,1.107423692,Cancers,Emergency,2
+3,1.048143815,0.973205088,1.128852973,Cancers,Emergency,3
+4,0.991418439,0.918546092,1.070072073,Cancers,Emergency,4
+5,1.064734292,0.986587814,1.149070663,Cancers,Emergency,5
+6,1.042891731,0.963220849,1.129152432,Cancers,Emergency,6
+7,1.039428431,0.960034402,1.125388279,Cancers,Emergency,7
+0,0.851368984,0.704144501,1.029375568,Infectious and parasitic diseases,Not Emergency,0
+1,1.234920119,1.049508271,1.453087835,Infectious and parasitic diseases,Not Emergency,1
+2,1.257175926,1.075934677,1.468947273,Infectious and parasitic diseases,Not Emergency,2
+3,1.126414633,0.956696889,1.326240253,Infectious and parasitic diseases,Not Emergency,3
+4,1.299060596,1.119302144,1.50768802,Infectious and parasitic diseases,Not Emergency,4
+5,1.104735129,0.935737039,1.304254993,Infectious and parasitic diseases,Not Emergency,5
+6,1.091421662,0.923716142,1.289574999,Infectious and parasitic diseases,Not Emergency,6
+7,0.799548535,0.655916196,0.974633443,Infectious and parasitic diseases,Not Emergency,7
+0,0.8871925,0.820544976,0.95925337,Infectious and parasitic diseases,Emergency,0
+1,1.027508209,0.955907329,1.10447225,Infectious and parasitic diseases,Emergency,1
+2,1.099067252,1.025000922,1.178485597,Infectious and parasitic diseases,Emergency,2
+3,1.115835622,1.041485877,1.195493057,Infectious and parasitic diseases,Emergency,3
+4,1.047537633,0.975490413,1.124906075,Infectious and parasitic diseases,Emergency,4
+5,1.002190901,0.931383251,1.078381646,Infectious and parasitic diseases,Emergency,5
+6,1.062370332,0.988020932,1.142314587,Infectious and parasitic diseases,Emergency,6
+7,1.04656594,0.973479839,1.125139138,Infectious and parasitic diseases,Emergency,7

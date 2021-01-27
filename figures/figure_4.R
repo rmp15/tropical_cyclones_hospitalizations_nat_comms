@@ -28,8 +28,8 @@ source(paste0(project.folder,'/colors/colors.R'))
 dat.results$ccs_level_1_description = factor(dat.results$ccs_level_1_description,
                         levels=c('Cardiovascular diseases','Respiratory diseases','Cancers','Injuries','Neuropsychiatric disorders',
                                     'Blood diseases','Digestive system diseases','Endocrine disorders','Genitourinary diseases',
-                                    'Infectious and parasitic diseases','Musculoskeletal and connective tissue diseases',
-                                    'Nervous system diseases','Skin and subcutaneous tissue diseases'))
+                                    'Infectious and parasitic diseases','Musculoskeletal and\nconnective tissue diseases',
+                                    'Nervous system diseases','Skin and subcutaneous\ntissue diseases'))
 
 dat.results$ccs_level_3_description <- factor(dat.results$ccs_level_3_description, levels=dat.results$ccs_level_3_description[order(rev(dat.results$order))], ordered=TRUE)
 

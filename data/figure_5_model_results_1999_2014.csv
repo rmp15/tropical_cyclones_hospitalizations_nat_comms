@@ -1,0 +1,209 @@
+event,rr,rr.ll.bfc,rr.ul.bfc,ccs_level_1_description,lag.factor
+Gale to violent storm,0.806765866,0.72787628,0.894205761,Neuropsychiatric disorders,0
+Gale to violent storm,0.994876751,0.909683804,1.088048117,Neuropsychiatric disorders,1
+Gale to violent storm,1.040555168,0.953408295,1.135667755,Neuropsychiatric disorders,2
+Gale to violent storm,1.042290852,0.956588201,1.135671775,Neuropsychiatric disorders,3
+Gale to violent storm,1.031265231,0.947145731,1.122855693,Neuropsychiatric disorders,4
+Gale to violent storm,1.01273658,0.928121109,1.105066323,Neuropsychiatric disorders,5
+Gale to violent storm,1.044721633,0.954791762,1.143121812,Neuropsychiatric disorders,6
+Gale to violent storm,1.016080186,0.926190423,1.11469404,Neuropsychiatric disorders,7
+Hurricane,0.481056925,0.320530694,0.721976926,Neuropsychiatric disorders,0
+Hurricane,1.206020009,0.911236957,1.596164697,Neuropsychiatric disorders,1
+Hurricane,1.251073974,0.945119129,1.656072808,Neuropsychiatric disorders,2
+Hurricane,1.208867343,0.924819139,1.580157882,Neuropsychiatric disorders,3
+Hurricane,1.159489744,0.898391672,1.496470312,Neuropsychiatric disorders,4
+Hurricane,1.324482071,1.023011246,1.714793228,Neuropsychiatric disorders,5
+Hurricane,1.423023796,1.094553769,1.850066009,Neuropsychiatric disorders,6
+Hurricane,1.152353852,0.870554268,1.52537234,Neuropsychiatric disorders,7
+Gale to violent storm,0.960961036,0.910835617,1.013844974,Injuries,0
+Gale to violent storm,1.050539841,0.999416382,1.104278434,Injuries,1
+Gale to violent storm,1.096288789,1.044274024,1.150894384,Injuries,2
+Gale to violent storm,1.086334806,1.035164751,1.14003429,Injuries,3
+Gale to violent storm,1.055583121,1.005214367,1.108475727,Injuries,4
+Gale to violent storm,1.096721651,1.044291732,1.151783878,Injuries,5
+Gale to violent storm,1.042853701,0.99091142,1.097518728,Injuries,6
+Gale to violent storm,1.010271858,0.958880329,1.064417734,Injuries,7
+Hurricane,1.034263138,0.874429069,1.223312761,Injuries,0
+Hurricane,1.533346838,1.330533603,1.767074894,Injuries,1
+Hurricane,1.571293558,1.369210052,1.803202833,Injuries,2
+Hurricane,1.414521799,1.229142666,1.627859787,Injuries,3
+Hurricane,1.173264524,1.01027239,1.362552967,Injuries,4
+Hurricane,1.34327228,1.157930155,1.558280879,Injuries,5
+Hurricane,1.127241359,0.959330819,1.324541084,Injuries,6
+Hurricane,1.103361884,0.935734107,1.301018568,Injuries,7
+Gale to violent storm,0.702617811,0.648830863,0.760863603,Musculoskeletal and connective tissue diseases,0
+Gale to violent storm,0.834370442,0.781242663,0.891111132,Musculoskeletal and connective tissue diseases,1
+Gale to violent storm,0.966608359,0.911385538,1.02517725,Musculoskeletal and connective tissue diseases,2
+Gale to violent storm,0.992922931,0.937522212,1.051597428,Musculoskeletal and connective tissue diseases,3
+Gale to violent storm,1.009498796,0.952119801,1.070335706,Musculoskeletal and connective tissue diseases,4
+Gale to violent storm,1.064208264,1.00063205,1.131823861,Musculoskeletal and connective tissue diseases,5
+Gale to violent storm,1.060623131,0.993546698,1.132228036,Musculoskeletal and connective tissue diseases,6
+Gale to violent storm,1.007922635,0.942516331,1.077867835,Musculoskeletal and connective tissue diseases,7
+Hurricane,0.468357311,0.341275565,0.642760844,Musculoskeletal and connective tissue diseases,0
+Hurricane,0.452501723,0.322443098,0.635019979,Musculoskeletal and connective tissue diseases,1
+Hurricane,0.593742482,0.453240702,0.777798935,Musculoskeletal and connective tissue diseases,2
+Hurricane,0.761848108,0.62026113,0.935755138,Musculoskeletal and connective tissue diseases,3
+Hurricane,0.932071685,0.77396638,1.122474629,Musculoskeletal and connective tissue diseases,4
+Hurricane,0.971822505,0.78795871,1.198589432,Musculoskeletal and connective tissue diseases,5
+Hurricane,1.048896829,0.832099407,1.322179236,Musculoskeletal and connective tissue diseases,6
+Hurricane,0.899246724,0.709836924,1.139197812,Musculoskeletal and connective tissue diseases,7
+Gale to violent storm,0.814811764,0.730419671,0.908954449,Skin and subcutaneous tissue diseases,0
+Gale to violent storm,0.946112993,0.856551927,1.045038564,Skin and subcutaneous tissue diseases,1
+Gale to violent storm,1.091665665,0.996214868,1.196261932,Skin and subcutaneous tissue diseases,2
+Gale to violent storm,1.045932599,0.953148551,1.147748691,Skin and subcutaneous tissue diseases,3
+Gale to violent storm,1.117801837,1.021987273,1.222599321,Skin and subcutaneous tissue diseases,4
+Gale to violent storm,1.019348572,0.9261798,1.121889629,Skin and subcutaneous tissue diseases,5
+Gale to violent storm,1.041207197,0.945678366,1.146385987,Skin and subcutaneous tissue diseases,6
+Gale to violent storm,1.071231767,0.972106434,1.180464873,Skin and subcutaneous tissue diseases,7
+Hurricane,0.703238933,0.478786224,1.032914007,Skin and subcutaneous tissue diseases,0
+Hurricane,1.087281106,0.78863045,1.499029367,Skin and subcutaneous tissue diseases,1
+Hurricane,1.212204392,0.884793357,1.660771383,Skin and subcutaneous tissue diseases,2
+Hurricane,1.564967526,1.203596085,2.034838254,Skin and subcutaneous tissue diseases,3
+Hurricane,1.286223602,0.982193994,1.684362929,Skin and subcutaneous tissue diseases,4
+Hurricane,1.542421477,1.182254413,2.012311381,Skin and subcutaneous tissue diseases,5
+Hurricane,1.656815598,1.267811642,2.165178041,Skin and subcutaneous tissue diseases,6
+Hurricane,1.361876099,1.02389292,1.811426248,Skin and subcutaneous tissue diseases,7
+Gale to violent storm,0.883754257,0.826329852,0.945169274,Genitourinary diseases,0
+Gale to violent storm,0.929619984,0.872526001,0.990449927,Genitourinary diseases,1
+Gale to violent storm,1.03587971,0.976285454,1.099111708,Genitourinary diseases,2
+Gale to violent storm,1.059574673,0.999861369,1.12285415,Genitourinary diseases,3
+Gale to violent storm,1.087946045,1.026840054,1.152688378,Genitourinary diseases,4
+Gale to violent storm,1.04270643,0.981956151,1.107215122,Genitourinary diseases,5
+Gale to violent storm,1.049695437,0.987111136,1.116247674,Genitourinary diseases,6
+Gale to violent storm,0.98105274,0.920745124,1.045310428,Genitourinary diseases,7
+Hurricane,0.732144176,0.570859485,0.938996563,Genitourinary diseases,0
+Hurricane,1.045698907,0.845860869,1.292749488,Genitourinary diseases,1
+Hurricane,1.159853611,0.952574309,1.4122367,Genitourinary diseases,2
+Hurricane,1.325894998,1.105994775,1.589517043,Genitourinary diseases,3
+Hurricane,1.198922321,0.999267944,1.438467771,Genitourinary diseases,4
+Hurricane,1.184088374,0.97314749,1.440753115,Genitourinary diseases,5
+Hurricane,1.42071638,1.178696945,1.71242917,Genitourinary diseases,6
+Hurricane,1.171923351,0.958937647,1.432214436,Genitourinary diseases,7
+Gale to violent storm,0.85183087,0.807359089,0.898752291,Digestive system diseases,0
+Gale to violent storm,0.928930265,0.88357657,0.97661195,Digestive system diseases,1
+Gale to violent storm,1.00819697,0.960866466,1.057858888,Digestive system diseases,2
+Gale to violent storm,1.012888537,0.965850367,1.062217527,Digestive system diseases,3
+Gale to violent storm,0.99658859,0.949904697,1.045566802,Digestive system diseases,4
+Gale to violent storm,1.021651808,0.973846124,1.071804252,Digestive system diseases,5
+Gale to violent storm,1.031326495,0.982554033,1.082519947,Digestive system diseases,6
+Gale to violent storm,1.01095822,0.962172169,1.062217923,Digestive system diseases,7
+Hurricane,0.703637093,0.580552271,0.852817537,Digestive system diseases,0
+Hurricane,0.778438816,0.644142604,0.94073422,Digestive system diseases,1
+Hurricane,0.789254245,0.657117018,0.947962456,Digestive system diseases,2
+Hurricane,0.983202511,0.837655332,1.154039304,Digestive system diseases,3
+Hurricane,1.036836484,0.891142452,1.206350222,Digestive system diseases,4
+Hurricane,1.050288717,0.89694084,1.229854122,Digestive system diseases,5
+Hurricane,1.026224409,0.872841724,1.206560719,Digestive system diseases,6
+Hurricane,0.974106374,0.826375775,1.148246664,Digestive system diseases,7
+Gale to violent storm,1.039941259,0.989439886,1.09302024,Respiratory diseases,0
+Gale to violent storm,1.171312566,1.118362361,1.226769763,Respiratory diseases,1
+Gale to violent storm,1.182944765,1.129796048,1.238593745,Respiratory diseases,2
+Gale to violent storm,1.060066644,1.01018427,1.112412183,Respiratory diseases,3
+Gale to violent storm,1.047757934,0.998561275,1.099378391,Respiratory diseases,4
+Gale to violent storm,1.013743524,0.964905915,1.065052992,Respiratory diseases,5
+Gale to violent storm,1.036429168,0.986461392,1.08892799,Respiratory diseases,6
+Gale to violent storm,1.030696924,0.980737034,1.083201828,Respiratory diseases,7
+Hurricane,1.359891927,1.174250735,1.57488175,Respiratory diseases,0
+Hurricane,2.002865729,1.771537291,2.264401177,Respiratory diseases,1
+Hurricane,1.654956681,1.447767134,1.891797065,Respiratory diseases,2
+Hurricane,1.27021016,1.096505101,1.471433055,Respiratory diseases,3
+Hurricane,1.32728302,1.149678268,1.532324534,Respiratory diseases,4
+Hurricane,1.350269973,1.165788113,1.563945438,Respiratory diseases,5
+Hurricane,1.314166726,1.132241271,1.52532347,Respiratory diseases,6
+Hurricane,1.164868178,0.997826724,1.359873251,Respiratory diseases,7
+Gale to violent storm,0.856536567,0.828877229,0.885118886,Cardiovascular diseases,0
+Gale to violent storm,0.962667206,0.934145878,0.992059347,Cardiovascular diseases,1
+Gale to violent storm,1.046466996,1.016791285,1.077008811,Cardiovascular diseases,2
+Gale to violent storm,1.03746604,1.008263961,1.067513891,Cardiovascular diseases,3
+Gale to violent storm,1.03102683,1.00204807,1.060843643,Cardiovascular diseases,4
+Gale to violent storm,1.023748587,0.994297725,1.054071777,Cardiovascular diseases,5
+Gale to violent storm,1.010386731,0.980545449,1.041136184,Cardiovascular diseases,6
+Gale to violent storm,0.988435676,0.958701434,1.019092129,Cardiovascular diseases,7
+Hurricane,0.750955403,0.671828384,0.839401894,Cardiovascular diseases,0
+Hurricane,0.991821979,0.895751563,1.09819606,Cardiovascular diseases,1
+Hurricane,1.084197898,0.985937825,1.192250721,Cardiovascular diseases,2
+Hurricane,1.091600091,0.997472315,1.194610357,Cardiovascular diseases,3
+Hurricane,1.07811951,0.986555266,1.178182021,Cardiovascular diseases,4
+Hurricane,1.156676253,1.056450777,1.26641012,Cardiovascular diseases,5
+Hurricane,1.123125781,1.021670802,1.234655544,Cardiovascular diseases,6
+Hurricane,1.114681504,1.01494564,1.224218132,Cardiovascular diseases,7
+Gale to violent storm,0.846820821,0.76733435,0.934541118,Nervous system diseases,0
+Gale to violent storm,1.051138631,0.963551385,1.146687596,Nervous system diseases,1
+Gale to violent storm,1.128538268,1.037826821,1.227178367,Nervous system diseases,2
+Gale to violent storm,1.015223161,0.930778941,1.107328519,Nervous system diseases,3
+Gale to violent storm,1.067342303,0.979445851,1.16312667,Nervous system diseases,4
+Gale to violent storm,1.031860777,0.944596516,1.127186736,Nervous system diseases,5
+Gale to violent storm,1.00069444,0.913936107,1.095688589,Nervous system diseases,6
+Gale to violent storm,1.103809752,1.012042657,1.203897839,Nervous system diseases,7
+Hurricane,0.691706694,0.477501638,1.002003159,Nervous system diseases,0
+Hurricane,1.17295476,0.866800169,1.587243425,Nervous system diseases,1
+Hurricane,1.068692957,0.796823823,1.433321398,Nervous system diseases,2
+Hurricane,1.105321053,0.821720001,1.486801623,Nervous system diseases,3
+Hurricane,0.858175558,0.62491718,1.178500627,Nervous system diseases,4
+Hurricane,1.178000534,0.879412609,1.577968343,Nervous system diseases,5
+Hurricane,0.984051677,0.712593753,1.358919719,Nervous system diseases,6
+Hurricane,1.201470761,0.89847499,1.606646824,Nervous system diseases,7
+Gale to violent storm,0.798361741,0.702233014,0.907649537,Blood diseases,0
+Gale to violent storm,0.918615196,0.817652684,1.032044406,Blood diseases,1
+Gale to violent storm,0.953028062,0.853292798,1.064420666,Blood diseases,2
+Gale to violent storm,0.960911494,0.861871318,1.071332669,Blood diseases,3
+Gale to violent storm,1.023264718,0.920117035,1.137975545,Blood diseases,4
+Gale to violent storm,1.035607047,0.930861796,1.152138762,Blood diseases,5
+Gale to violent storm,1.063634318,0.954266609,1.185536571,Blood diseases,6
+Gale to violent storm,1.032998896,0.923131598,1.155942146,Blood diseases,7
+Hurricane,0.647885455,0.406080373,1.033676067,Blood diseases,0
+Hurricane,0.76918346,0.501486771,1.179778271,Blood diseases,1
+Hurricane,0.763670365,0.501266411,1.163438071,Blood diseases,2
+Hurricane,0.993908151,0.695427174,1.420498724,Blood diseases,3
+Hurricane,1.262924186,0.926706987,1.721123852,Blood diseases,4
+Hurricane,0.939169382,0.643342885,1.37102492,Blood diseases,5
+Hurricane,1.133775293,0.795730707,1.615428943,Blood diseases,6
+Hurricane,1.161791615,0.812171288,1.661915136,Blood diseases,7
+Gale to violent storm,0.797223651,0.733292064,0.866729071,Endocrine disorders,0
+Gale to violent storm,1.020792253,0.949015624,1.097997545,Endocrine disorders,1
+Gale to violent storm,1.073129417,1.000048994,1.151550328,Endocrine disorders,2
+Gale to violent storm,1.049344901,0.977728043,1.126207568,Endocrine disorders,3
+Gale to violent storm,1.041853341,0.970847792,1.118052071,Endocrine disorders,4
+Gale to violent storm,1.010671214,0.940110681,1.086527707,Endocrine disorders,5
+Gale to violent storm,1.056163627,0.981706929,1.136267428,Endocrine disorders,6
+Gale to violent storm,1.000811724,0.927815839,1.079550559,Endocrine disorders,7
+Hurricane,0.79398277,0.598813647,1.052762644,Endocrine disorders,0
+Hurricane,1.215200576,0.960436871,1.53754243,Endocrine disorders,1
+Hurricane,1.537976372,1.239995094,1.907565063,Endocrine disorders,2
+Hurricane,1.533365647,1.250254116,1.880585858,Endocrine disorders,3
+Hurricane,1.600969253,1.318731583,1.943612014,Endocrine disorders,4
+Hurricane,1.442562574,1.163901995,1.787939867,Endocrine disorders,5
+Hurricane,1.458741601,1.164193631,1.827811974,Endocrine disorders,6
+Hurricane,1.117198888,0.876180767,1.424515809,Endocrine disorders,7
+Gale to violent storm,0.76424944,0.708176337,0.824762387,Cancers,0
+Gale to violent storm,0.857184852,0.801273118,0.91699803,Cancers,1
+Gale to violent storm,0.9934805,0.93405251,1.056689526,Cancers,2
+Gale to violent storm,1.023899877,0.964707032,1.086724698,Cancers,3
+Gale to violent storm,0.998549912,0.940376629,1.060321892,Cancers,4
+Gale to violent storm,1.037090311,0.975203178,1.102904849,Cancers,5
+Gale to violent storm,1.002198874,0.938134113,1.070638589,Cancers,6
+Gale to violent storm,0.980484044,0.916561994,1.048864088,Cancers,7
+Hurricane,0.511030137,0.380782669,0.685829011,Cancers,0
+Hurricane,0.720939011,0.555742923,0.935240085,Cancers,1
+Hurricane,0.717121812,0.558180771,0.921321048,Cancers,2
+Hurricane,0.965293733,0.79839144,1.16708665,Cancers,3
+Hurricane,0.961501545,0.792427673,1.166649339,Cancers,4
+Hurricane,1.174037612,0.969551292,1.421651773,Cancers,5
+Hurricane,1.067355599,0.859687739,1.325188115,Cancers,6
+Hurricane,1.041180711,0.839487882,1.29133165,Cancers,7
+Gale to violent storm,0.897847069,0.829441684,0.971893956,Infectious and parasitic diseases,0
+Gale to violent storm,1.00732726,0.935189843,1.085029117,Infectious and parasitic diseases,1
+Gale to violent storm,1.075611212,1.001011708,1.155770178,Infectious and parasitic diseases,2
+Gale to violent storm,1.088564926,1.01383555,1.168802571,Infectious and parasitic diseases,3
+Gale to violent storm,1.039082357,0.965966006,1.117733064,Infectious and parasitic diseases,4
+Gale to violent storm,0.984064402,0.912550088,1.061183119,Infectious and parasitic diseases,5
+Gale to violent storm,1.045798035,0.970598245,1.126824138,Infectious and parasitic diseases,6
+Gale to violent storm,1.037131875,0.962970424,1.117004738,Infectious and parasitic diseases,7
+Hurricane,0.723096189,0.515121248,1.015038887,Infectious and parasitic diseases,0
+Hurricane,1.511966378,1.184791093,1.929489799,Infectious and parasitic diseases,1
+Hurricane,1.579318351,1.254037696,1.98897247,Infectious and parasitic diseases,2
+Hurricane,1.51990642,1.203166148,1.920030355,Infectious and parasitic diseases,3
+Hurricane,1.397933541,1.099760558,1.776948785,Infectious and parasitic diseases,4
+Hurricane,1.386183448,1.083973941,1.772648289,Infectious and parasitic diseases,5
+Hurricane,1.368250233,1.066974345,1.754595797,Infectious and parasitic diseases,6
+Hurricane,1.038289191,0.776910326,1.387604732,Infectious and parasitic diseases,7

@@ -29,6 +29,9 @@ dat.results$ccs_level_1_description = factor(dat.results$ccs_level_1_description
                                     'Infectious and parasitic diseases','Musculoskeletal and connective tissue diseases',
                                     'Nervous system diseases','Skin and subcutaneous tissue diseases'))
 
+# ensure lags go correct order in plot
+dat.results$lag.factor = factor(dat.results$lag.factor, levels=c(7:0))
+
 # save plot output for Figure 3
 pdf(paste0(output.folder,'figure_3.pdf'),paper='a4r',width=0,height=0)
 ggplot() +
