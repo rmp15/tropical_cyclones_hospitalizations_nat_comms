@@ -25,7 +25,7 @@ start_year <- 1999; end_year <- 2014
 source(paste0(project.folder,'/colors/colors.R'))
 
 # bar across causes
-p3.new = ggplot() +
+p1 = ggplot() +
   geom_bar(data=subset(dat.admissions.ccs.level.1.mean.total.cause.summary.int.lag), aes(x=as.factor(ccs_level_1_description),y=cases.additional,fill=ccs_level_1_description), stat='identity', inherit.aes = FALSE ) +
     geom_errorbar(data=subset(dat.admissions.ccs.level.1.mean.total.cause.summary.int.lag),aes(x=as.factor(ccs_level_1_description),ymin=cases.additional.ll,ymax=cases.additional.ul),width=0.5) +
     geom_hline(yintercept=0,linetype='dotted') +
@@ -42,7 +42,7 @@ p3.new = ggplot() +
     legend.background = element_rect(fill="white", size=.5, linetype="dotted"))
 
 # layered by cause across lags
-p4 = ggplot() +
+p2 = ggplot() +
     geom_bar(data=subset(dat.admissions.ccs.level.1.mean.total.cause.lag.summary), aes(x=as.factor(lag),y=cases.additional,fill=ccs_level_1_description), stat='identity') +
     geom_hline(yintercept=0,linetype='dotted') +
     xlab('Lag (days after event)') + ylab('') +
@@ -60,7 +60,7 @@ p4 = ggplot() +
 # save plot output for Figure 2 (won't work as there is no dat.admissions.ccs.level.1.mean.total.cause.summary.int.lag
 # or dat.admissions.ccs.level.1.mean.total.cause.lag.summary!)
 pdf(paste0(output.folder,'figure_6.pdf'),paper='a4r',width=0,height=0)
-grid.arrange(p3.new,p4,nrow=2,left=paste("Additional hospitalization associated with\n average decadal tropical cyclone exposure"))
+grid.arrange(p1,p2,nrow=2,left=paste("Additional hospitalization associated with\n average decadal tropical cyclone exposure"))
 dev.off()
 
 
