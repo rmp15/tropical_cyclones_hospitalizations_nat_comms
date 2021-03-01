@@ -9,7 +9,7 @@ mod = gnm(cases ~
             event_lag0 + event_lag1 + event_lag2 + event_lag3 + event_lag4 + event_lag5 + event_lag6 + event_lag7 +
             # mean daily tempearture
             cb1.temp +
-            # spline
+            # natural spline of year trends with
             ns(year, df=2) +
             # day of the week indicator to adjust by
             dow ,
