@@ -1,4 +1,6 @@
 # Tropical cyclone exposure is associated with increased hospitalization rates in older adults
+Parks, R.M., Anderson, G.B., Nethery, R.C. et al. Tropical cyclone exposure is associated with increased hospitalization rates in older adults. Nat Commun 12, 1545 (2021). https://doi.org/10.1038/s41467-021-21777-1
+
 Code used for analysis and plotting of Figures for Parks et al. Nature Communications paper 2021
 
 ![image](https://github.com/rmp15/tropical_cyclones_hospitalizations_nat_comms/blob/main/banner/banner.jpg)
