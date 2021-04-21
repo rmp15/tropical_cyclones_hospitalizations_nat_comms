@@ -16,7 +16,7 @@ colors.ccs.level.1 <- mycols[c( 62,  # Cardiovascular diseases
                                 12,  # Neuropsychiatric disorders
                                 30,  # Blood diseases
                                 22,  # Digestive system diseases
-                                13,  # Endocrine disorders CHANGE
+                                13,  # Endocrine disorders
                                 36,  # Genitourinary diseases
                                 60,  # Infectious and parasitic diseases
                                 6,   # Musculoskeletal and connective tissue diseases
