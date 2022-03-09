@@ -7,7 +7,7 @@ library(gnm) ; library(splines) ; library(dlnm)
 mod = gnm(cases ~
             # tropical cyclone exposure slopes by lag day after tropical cyclone exposure
             event_lag0 + event_lag1 + event_lag2 + event_lag3 + event_lag4 + event_lag5 + event_lag6 + event_lag7 +
-            # mean daily tempearture
+            # mean daily temperature
             cb1.temp +
             # natural spline of year trends with
             ns(year, df=2) +
